@@ -1,0 +1,75 @@
+
+Ngành Khoa học Dữ liệu
+
+Chương trình đào tạo ngành Khoa học dữ liệu được xây dựng theo định hướng đăng ký đánh giá ngoài 
+cấp chương trình đào tạo theo tiêu chuẩn chất lượng giáo dục của Bộ Giáo dục và Đào tạo (MOET).
+
+1. Mục tiêu đào tạo
+a. Kiến thức
+- Kiến thức cơ bản về khoa học xã hội, khoa học tự nhiên, chính trị, pháp luật.
+- Kiến thức cơ sở ngành CNTT và chuyên ngành khoa học dữ liệu: thống kê, xác suất, phân tích dữ liệu, máy học, học sâu, thu thập và quản lý dữ liệu.
+
+b. Kỹ năng
+- Kỹ năng thực hành, tư duy sáng tạo, kỹ năng nghề nghiệp, kỹ năng giao tiếp để giải quyết vấn đề CNTT và khoa học dữ liệu.
+- Kỹ năng thống kê, phân tích dữ liệu; quản trị và truy xuất dữ liệu.
+
+c. Mức độ tự chủ và trách nhiệm
+- Phẩm chất chính trị, ý thức tổ chức kỷ luật, đạo đức nghề nghiệp.
+- Khả năng làm việc độc lập và làm việc nhóm.
+
+2. Cơ hội nghề nghiệp
+Sinh viên tốt nghiệp có thể làm việc ở các vị trí:
+- Nhà khoa học dữ liệu (Data Scientist): Phân tích dữ liệu lớn, xây dựng mô hình dự đoán.
+- Kỹ sư trí tuệ nhân tạo (AI Engineer): Thiết kế và triển khai hệ thống AI.
+- Kỹ sư dữ liệu (Data Engineer): Xây dựng hạ tầng dữ liệu, quản lý pipeline.
+- Chuyên gia phân tích kinh doanh (Business Analyst): Ứng dụng dữ liệu để tối ưu chiến lược kinh doanh.
+- Nhà nghiên cứu AI tại viện nghiên cứu, trường đại học, phòng R&D.
+- Khởi nghiệp với sản phẩm/dịch vụ AI.
+- Phát triển học cao hơn, tham gia ngành nghề chủ lực của kinh tế.
+
+3. Điều kiện tuyển sinh
+Phương thức tuyển sinh:
+1. Xét tuyển theo điểm thi tốt nghiệp THPT 2025.
+2. Xét kết quả học tập THPT.
+3. Xét kết quả kỳ thi Đánh giá năng lực ĐHQG TP.HCM 2025.
+4. Xét tuyển thẳng theo quy chế Bộ GD&ĐT.
+5. Xét tuyển theo kết quả thi Đánh giá năng lực chuyên biệt của ĐH Sư phạm TP.HCM 2025 kết hợp học tập THPT.
+
+Tổ hợp xét tuyển:
+- A00: Toán, Vật lí, Hóa học
+- C01: Ngữ văn, Toán, Vật lí
+- D01: Toán, Ngữ văn, Tiếng Anh
+- Toán, Tiếng Anh, Tin học
+
+4. Môn học tiêu biểu và tố chất phù hợp với ngành
+Các môn học tiêu biểu:
+- Cấu trúc dữ liệu và giải thuật
+- Kho dữ liệu
+- Tổ chức và cấu trúc máy tính
+- Thống kê Bayes
+- Khai thác dữ liệu
+- Trí tuệ nhân tạo
+- Dữ liệu lớn
+- Học máy
+- Học sâu
+- Xử lý ảnh số
+- Xử lý ngôn ngữ tự nhiên
+- Thị giác máy tính và nhận dạng mẫu
+- Các vấn đề hiện đại trong trí tuệ nhân tạo
+- Các vấn đề hiện đại trong phân tích dữ liệu
+
+Tố chất phù hợp:
+- Thông minh, năng động, đam mê
+- Học tốt môn tự nhiên
+- Tư duy logic, hệ thống
+- Kiên trì, sáng tạo
+- Nhạy bén, chủ động
+- Tinh thần hợp tác, làm việc nhóm
+
+5. Quyền lợi của người học
+- Được đào tạo chuyên môn kỹ thuật theo yêu cầu nhà tuyển dụng.
+- Được hỗ trợ giới thiệu việc làm trong và sau khi tốt nghiệp.
+- Được tham gia lớp kỹ năng mềm, đổi mới sáng tạo, khởi nghiệp.
+- Được hưởng chế độ theo quy chế trường ĐH Công lập.
+- Hỗ trợ vay vốn học tập.
+- Thời gian đào tạo: 3,5 - 4 năm.

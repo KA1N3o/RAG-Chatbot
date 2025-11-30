@@ -1,0 +1,46 @@
+Nhiệm vụ:
+- Đào tạo nguồn nhân lực chất lượng cao: Trang bị cho sinh viên, học viên kiến thức nền tảng và chuyên sâu về khoa học dữ liệu và trí tuệ nhân tạo, đáp ứng nhu cầu của thị trường lao động trong kỷ nguyên chuyển đổi số.
+- Nghiên cứu và phát triển: Thúc đẩy các hoạt động nghiên cứu khoa học, ứng dụng công nghệ tiên tiến vào thực tiễn, góp phần giải quyết các vấn đề xã hội, kinh tế, và kỹ thuật.
+- Chuyển giao công nghệ: Hỗ trợ doanh nghiệp, tổ chức trong việc triển khai các giải pháp dựa trên dữ liệu và AI, nâng cao năng lực cạnh tranh quốc gia.
+- Phát triển cộng đồng: Xây dựng mạng lưới hợp tác giữa các nhà khoa học, sinh viên và doanh nghiệp để lan tỏa tri thức và ứng dụng công nghệ.
+
+Mục tiêu đào tạo:
+- Kiến thức chuyên môn: Cung cấp nền tảng vững chắc về toán học, lập trình, học máy, học sâu, xử lý dữ liệu lớn, và các kỹ thuật AI.
+- Kỹ năng thực tiễn: Rèn luyện khả năng phân tích dữ liệu, thiết kế mô hình AI, triển khai ứng dụng thực tế.
+- Năng lực nghiên cứu: Khuyến khích sinh viên tham gia nghiên cứu khoa học, phát triển tư duy sáng tạo.
+- Đạo đức nghề nghiệp: Đào tạo sinh viên có trách nhiệm xã hội, hiểu biết về các vấn đề đạo đức trong AI.
+
+Hướng nghiên cứu:
+- Học máy và học sâu: Phát triển thuật toán tối ưu, mạng nơ-ron sâu.
+- Xử lý ngôn ngữ tự nhiên (NLP): Chatbot, dịch máy, phân tích cảm xúc.
+- Thị giác máy tính: Nhận diện khuôn mặt, phân tích video.
+- Khoa học dữ liệu lớn: Phân tích, trực quan hóa dữ liệu, khai phá dữ liệu.
+- AI liên ngành: Y học, nông nghiệp, tài chính.
+- AI đạo đức và bền vững: Minh bạch, công bằng, tác động xã hội.
+
+Hợp tác:
+- Dữ liệu lớn (Big data)
+- Học sâu (Deep learning)
+- Học máy (Machine learning)
+- Khai thác dữ liệu (Data mining)
+- Internet of Things
+- Thị giác máy tính (Computer vision)
+
+Cơ hội nghề nghiệp:
+- Nhà khoa học dữ liệu (Data Scientist)
+- Kỹ sư trí tuệ nhân tạo (AI Engineer)
+- Kỹ sư dữ liệu (Data Engineer)
+- Chuyên gia phân tích kinh doanh (Business Analyst)
+- Nhà nghiên cứu AI
+- Khởi nghiệp với AI
+- Phát triển học cao hơn
+
+Hoạt động ngoại khóa:
+- Cuộc thi lập trình và AI: ACM-ICPC, hackathon, nghiên cứu khoa học.
+- Hội thảo và seminar với chuyên gia.
+- Câu lạc bộ học thuật.
+- Thực tập và dự án thực tế với doanh nghiệp.
+- Giao lưu quốc tế, học bổng, hội nghị khoa học.
+- Ngày hội công nghệ.
+- Hoạt động xã hội, mùa hè xanh, tình nguyện.
+

@@ -1,0 +1,909 @@
+HƯỚNG DẪN KHÓA LUẬN TỐT NGHIỆP
+THÁNG 06/2024
+
+
+I. MỘT SỐ LƯU Ý
+
+Việc xác định, lựa chọn nội dung thực tập và đặt tên đề tài khóa luận tốt nghiệp (KLTN) là công việc đầu tiên của sinh viên thực tập Học kỳ doanh nghiệp có thể dựa trên một số yêu cầu: (1) Phải phù hợp với chuyên ngành đào tạo; (2) Cơ cấu tổ chức của đơn vị thực tập; (3) Phong cách lãnh đạo; (4) Quản trị chất lượng (chất lượng công việc, chất lượng sản phẩm..)…
+
+Vấn đề mà sinh viên có sự quan tâm (đam mê, gắn với công tác hiện tại/ sau này, nâng cao năng lực nghiên cứu khoa học của sinh viên), có thế mạnh về kiến thức chuyên môn.
+
+Đề tài phải có ý nghĩa thực tế gắn với yêu cầu của Đơn vị thực tập.
+
+Có khả năng thu thập dữ liệu tại Đơn vị thực tập để hoàn thành báo cáo tốt nghiệp hoặc khóa luận tốt nghiệp.
+
+Vừa sức trong giới hạn về năng lực bản thân, thời gian và các điều kiện khác.
+
+Tên đề tài phải ngắn gọn song đủ nghĩa, phản ánh đúng ý tưởng, nội dung, đối tượng nghiên cứu chính.
+
+Bìa của Khóa luận in màu trắng, gáy lò xo, đĩa phải ghi nhãn có đầy đủ Trường, khoa, ngành, tên GVHD, khóa (Gồm file word, spss, Bản câu hỏi khảo sát cho giảng viên hướng dẫn nộp lại cho khoa).
+
+Khóa luận chỉ thực hiện cá nhân (1SV/ khóa luận) hoặc quy định của Trường, không trùng tên đề tài, hướng nghiên cứu và đối tượng khảo sát.
+
+
+II. YÊU CẦU CHUNG VỚI GIẢNG VIÊN VÀ SINH VIÊN
+
+2.1. Đối với giảng viên
+
+GVHD nhận danh sách nhóm hướng dẫn tại khoa (gửi mail).
+
+GVHD chủ động triển khai học phần KLTN và yêu cầu SV đăng ký tên đề tài trong tuần đầu tiên sau khi triển khai học phần KLTN, sau đó GVHD tổng họp tên đề tài KLTN theo mẫu gửi về văn phòng khoa cho giáo vụ tổng hợp.
+
+GVHD có trách nhiệm hướng dẫn SV theo lịch gặp của GVHD với SV (thời gian do GVHD và SV chủ động).
+
+Thời gian bắt đầu hướng dẫn: 12/08/2024. Hình thức hướng dẫn giảng viên chủ động: trực tiếp, trực tuyến, qua phương tiện internet. Đối với học phần khóa luận tốt nghiệp giảng viên phải gặp sinh viên ít nhất 4 lần, mỗi đợt gặp đều phải có chữ ký của sinh viên.
+
+GVHD yêu cầu SV nộp khóa luận hoàn tất vào ngày 25/11/2024. Mỗi SV nộp File mềm tổng hợp bài làm khóa luận của SV cho GVHD. Yêu cầu tất cả SV phải ký tên vào danh sách chấm điểm khóa luận khi nộp bài.
+
+Với khóa luận, khoa QTKD sẽ tổ chức bảo vệ, mỗi hội đồng sẽ gồm 03 thành viên: 01 chủ tịch, 01 phản biện, 01 thư ký/ uỷ viên. Vì vậy, tất cả thầy/ cô hướng dẫn cũng sẽ có trách nhiệm chấm khóa luận trong các hội đồng thành viên.
+
+Lưu ý:
+
+Đối với học phần khóa luận tốt nghiệp giảng viên phải gặp sinh viên ít nhất 4 lần, mỗi đợt gặp đều phải có chữ ký của sinh viên.
+
+Kế hoạch dự kiến bảo vệ khóa luận từ ngày 01 đến 15/12/2024.
+
+2.2. Đối với sinh viên
+
+SV phải gặp GVHD hàng tuần theo lịch gặp của GVHD và thực hiện đúng tiến độ GVHD đưa ra.
+
+Sau khi bảo vệ KLTN, Sinh viên chịu trách nhiệm chỉnh sửa KLTN theo biên bản nhận xét của Hội đồng chấm KLTN trong vòng 10 ngày và nộp file mềm KLTN đã chỉnh sửa theo đúng tiến độ cho GVHD. File mềm được nộp lên đường link của khoa, bao gồm: (1) file word + PDF khóa luận tốt nghiệp; (2) file slide bảo vệ trên Hội đồng; (3) file kết quả chạy phần mềm SPSS; (4) file bảng câu hỏi khảo sát; (5) Cam kết chỉnh sửa khoá luận có chữ ký xác nhận của GVHD.
+
+
+III. ĐÁNH GIÁ KẾT QUẢ KHÓA LUẬN
+
+BÁO CÁO TIÊU CHÍ CHO ĐIỂM THANG ĐIỂM (10)
+
+KHÓA LUẬN
+Chuyên cần, ý thức 2
+Hình thức 1
+Nội dung (lý thuyết, mô hình, kết quả nghiên cứu) 5
+Trả lời câu hỏi hội đồng 2
+
+Điểm bảo vệ khóa luận: Điểm cuối cùng bảo vệ là điểm trung bình cộng của 3 thành viên Hội đồng và giảng viên hướng dẫn.
+
+Điểm tổng kết sau cùng: điểm GVHD chấm điểm thái độ tham gia (A) chiếm 20%; điểm Hội đồng (B) chiếm 80%. Cụ thể: điểm tổng kết KLTN = (A x 20%) + (B x 80%).
+
+
+IV. NỘI DUNG CÁC HÌNH THỨC KHÓA LUẬN TỐT NGHIỆP
+
+A. ĐỐI VỚI KHOÁ LUẬN TỐT NGHIỆP KẾT CẤU 3 CHƯƠNG
+
+MỞ ĐẦU
+
+Phần này là cần thiết và bắt buộc, mục đích của phần này là trình bày tính cấp thiết của vấn đề nghiên cứu trong bối cảnh nhất định. Phần mở đầu đóng vai trò quan trọng trong việc phác thảo khung sườn của đề tài, do vậy cần được viết một cách thận trọng, súc tích và rõ ràng. Phần mở đầu bao gồm các nội dung sau:
+
+1. Lý do chọn đề tài
+
+Trong mục này sinh viên phải trình bày được lý do lựa chọn đề tài nghiên cứu, một số lý do có thể gồm:
+
+Tầm quan trọng, ý nghĩa, tác dụng của vấn đề nghiên cứu;
+
+Vấn đề chưa được nghiên cứu hay nghiên cứu chưa sâu, còn những nội dung cần tiếp tục tìm hiểu, làm rõ;
+
+Vấn đề nghiên cứu đang có tính thời sự cao, cần được giải quyết;
+
+Vấn đề mà qua nghiên cứu sơ bộ cho thấy tại đơn vị thực tập có nhiều tồn tại cần khắc phục;
+
+Xuất phát từ yêu cầu của đơn vị thực tập.
+
+2. Mục tiêu nghiên cứu
+
+Sinh viên cần xác định rõ đích đến cuối cùng của việc nghiên cứu đề tài là gì? Mục tiêu nghiên cứu rõ ràng là tiền đề cho việc xây dựng một kết cấu nội dung tốt và đảm bảo cho sinh viên hướng nghiên cứu thành công.
+
+Mục tiêu nghiên cứu thường liên quan trực tiếp đến tên gọi của đề tài. Mỗi báo cáo cần có: Mục tiêu tổng quát và mục tiêu cụ thể riêng biệt.
+
+2.1. Mục tiêu chung
+2.2. Mục tiêu cụ thể
+2.3. Câu hỏi nghiên cứu
+
+3. Đối tượng và phạm vi nghiên cứu
+
+3.1. Đối tượng nghiên cứu
+
+Đối tượng nghiên cứu là tổng thể những khía cạnh /nội dung có liên quan đến đề tài, được sinh viên lựa chọn phù hợp với ngành, hoàn cảnh nghiên cứu.
+
+Ví dụ với đề tài về "Giải pháp nâng cao hiệu quả công tác tạo động lực tại Công ty X" thì đối tượng nghiên cứu là các nhân tố ảnh hưởng đến tạo động lực, những giải pháp tạo động lực và thực trạng công tác tạo động lực của Công ty X.
+
+3.2. Phạm vi nghiên cứu
+
+Phạm vi nghiên cứu là giới hạn không gian, thời gian và nội dung mà báo cáo đề cập. Việc xác định rõ phạm vi nghiên cứu là để đảm bảo tính đầy đủ của nội dung báo cáo, tránh lan man làm mất tính tập trung vào những nhiệm vụ nghiên cứu. Khi viết mục này sinh viên cần làm rõ:
+
+Phạm vi về không gian: Là tên/ địa điểm của đơn vị thực tập;
+
+Phạm vi về thời gian: Là khoảng thời gian thu thập dữ liệu cũng như ứng dụng các kết quả nghiên cứu;
+
+Phạm vi về vấn đề nghiên cứu: Chỉ rõ giới hạn của những nội dung nghiên cứu.
+
+4. Phương pháp nghiên cứu
+
+Trong mục này sinh viên dự kiến các phương pháp sẽ được áp dụng để giải quyết các nhiệm vụ đặt ra cho báo cáo. Các phương pháp lựa chọn có thể gồm:
+
+Nghiên cứu định tính (dữ liệu thu thập chủ yếu ở dạng chữ, trình bày trong các hộp, không đo lường bằng số lượng và qua nghiên cứu tài liệu, tình huống, trao đổi…).
+
+Nghiên cứu định lượng (thu thập dữ liệu qua bảng câu hỏi có cấu trúc, phỏng vấn, quan sát bằng những công cụ khác).
+
+5. Ý nghĩa của đề tài nghiên cứu
+
+5.1. Ý nghĩa khoa học
+5.2. Ý nghĩa thực tiễn
+
+6. Bố cục khóa luận tốt nghiệp
+
+
+CHƯƠNG 1: CƠ SỞ LÝ THUYẾT VỀ VẤN ĐỀ NGHIÊN CỨU…
+
+(phần này chỉ nói về các lý thuyết liên quan đến nội dung nghiên cứu, chưa được nói cụ thể đơn vị thực tập. Ví dụ: Cơ sở lý thuyết về quản trị nguồn nhân lực trong tổ chức)
+
+1.1. Các khái niệm liên quan đến vấn đề nghiên cứu
+
+1.2. Đặc điểm, vai trò và chức năng của vấn đề nghiên cứu
+
+1.3. Nội dung của vấn đề nghiên cứu
+1.3.1. Nội dung 1
+1.3.2. Nội dung 2
+….
+
+1.4. Các nhân tố/ yếu tố ảnh hưởng đến vấn đề nghiên cứu
+1.4.1. Các nhân tố/yếu tố bên trong doanh nghiệp
+1.4.2. Các nhân tố/yếu tố bên ngoài doanh nghiệp
+
+1.5. Các tiêu chí đánh giá vấn đề nghiên cứu
+1.5.1. Tiêu chí 1
+1.5.2. Tiêu chí 2
+…
+
+1.6. Bài học kinh nghiệm trong nước và nước ngoài (chọn 3-4 doanh nghiệp cùng lĩnh vực đã từng công bố kết quả nghiên cứu vấn đề tương tự hoặc các doanh nghiệp có liên quan trong giải quyết vấn đề nghiên cứu)
+1.6.1. Bài học kinh nghiệm tại công ty A
+1.6.2. Bài học kinh nghiệm tại công ty B
+1.6.3. Bài học kinh nghiệm tại công ty C
+1.6.4. Bài học kinh nghiệm rút ra cho đơn vị thực tập
+
+TÓM TẮT CHƯƠNG 1
+
+
+CHƯƠNG 2: THỰC TRẠNG CỦA VẤN ĐỀ NGHIÊN CỨU….
+
+(của vấn đề nghiên cứu tại đơn vị thực tập. Ví dụ: Thực trạng hoạt động quản trị nguồn nhân lực tại công ty ABC)
+
+2.1. Giới thiệu chung doanh nghiệp (tên doanh nghiệp, địa chỉ, điện thoại, fax, email, web, lịch sử hình thành...)
+
+2.1.1. Lịch sử hình thành và phát triển
+
+2.1.2. Mục tiêu, sứ mệnh, tầm nhìn, logo, slogan và các giá trị cốt lõi của doanh nghiệp (nếu có)
+
+2.1.3. Mô hình cơ cấu tổ chức
+
+2.1.4. Sản phẩm/dịch vụ doanh nghiệp đang cung cấp
+
+2.1.5. Quy mô doanh nghiệp (Diện tích, cơ sở hạ tầng, số lượng chi nhánh, số lượng nhân sự, số lượng phòng ban, tài sản, vốn, tình hình hoạt động sản xuất kinh doanh trong 3 năm gần nhất (nếu doanh nghiệp mới thành lập thì có thể phân theo qúi).
+
+2.1.6. Kết qủa hoạt động sản xuất kinh doanh của đơn vị (Phân tích số liệu trong thời gian 3 năm gần nhất)
+
+2.2. Thực trạng của vấn đề nghiên cứu…. (liên quan tên đề tài nghiên cứu)
+
+2.2.1. Thực trạng tại bộ phận/phòng ban (cơ cấu tổ chức, chức năng vai trò của từng vị trí trong phòng ban thực tập)
+
+2.2.2. Thực trạng vấn đề nghiên cứu (cần xem phần lý thuyết chương 1 như đặc điểm, các nhân tố ảnh hưởng và các tiêu chí đánh giá vấn đề nghiên cứu vào đánh giá cho thực trạng hiện tại doanh nghiệp)
+
+Lưu ý: Bảo đảm tính logic với mục 1.3 Nội dung của vấn đề nghiên cứu (chương 1).
+
+2.3. Đánh giá thành tựu và hạn chế của vấn đề nghiên cứu (từ kết quả phân tích mục 2.4.2, rút ra những ưu điểm và hạn chế của vấn đề nghiên cứu tại doanh nghiệp)
+
+2.3.1. Thành tựu đạt được
+2.3.2. Hạn chế và nguyên nhân của hạn chế
+
+TÓM TẮT CHƯƠNG 2
+
+
+CHƯƠNG 3: GIẢI PHÁP NÂNG CAO/ GIẢI PHÁP HOÀN THIỆN…
+
+vấn đề nghiên cứu tại đơn vị thực tập, ví dụ: Giải pháp nâng cao hiệu quả hoạt động quản trị nguồn nhân lực tại công ty ABC)
+
+3.1. Cơ sở đề ra giải pháp (dựa vào mục tiêu, chiến lược và tầm nhìn của doanh nghiệp cho công ty có liên quan đến vấn đề nghiên cứu làm cơ sở)
+
+3.1.1. Định hướng, chiến lược phát triển của công ty giai đoạn…
+3.1.2. Xu hướng thị trường về vấn đề nghiên cứu
+
+3.2. Giải pháp hoàn thiện/ Giải pháp nâng cao... cho vấn đề nghiên cứu (Dựa vào mục 2.5, đề xuất các giải pháp khắc phục các nhược điểm và phát huy những ưu điểm)
+
+3.2.1. Giải pháp 1
+3.2.2. Giải pháp 2
+……
+
+TÓM TẮT CHƯƠNG 3
+
+KẾT LUẬN
+
+TÀI LIỆU THAM KHẢO
+
+PHỤ LỤC
+
+PHỤ LỤC: ĐÁNH GIÁ CHUNG VỀ KẾT QUẢ THỰC HIỆN HỌC KỲ DOANH NGHIỆP VÀ CÁC GIÁ TRỊ NHẬN ĐƯỢC TỪ HỌC KỲ DOANH NGHIỆP
+
+1. Các mục tiêu thực hiện học kỳ doanh nghiệp
+2. Kết quả đạt được sau khi hoàn thành HKDN
+3. Giá trị nhận được từ học kỳ doanh nghiệp
+
+
+B. ĐỐI VỚI KHOÁ LUẬN TỐT NGHIỆP KẾT CẤU 5 CHƯƠNG
+
+CHƯƠNG 1. TỔNG QUAN VỀ VẤN ĐỀ NGHIÊN CỨU… (ghi cụ thể tên đề tài)
+
+1.1. Tính cấp thiết của đề tài
+
+1.2. Mục tiêu nghiên cứu của đề tài
+1.2.1. Mục tiêu chung
+1.2.2. Mục tiêu cụ thể
+1.2.3. Câu hỏi nghiên cứu
+
+1.3. Đối tượng và phạm vi nghiên cứu
+1.3.1. Đối tượng nghiên cứu
+1.3.2. Phạm vi nghiên cứu
+
+1.4. Phương pháp nghiên cứu
+
+1.5. Ý nghĩa của đề tài nghiên cứu
+1.5.1. Ý nghĩa khoa học
+1.5.2. Ý nghĩa thực tiễn
+
+1.6. Bố cục khoá luận tốt nghiệp
+
+Tóm tắt chương 1
+
+
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT VÀ MÔ HÌNH NGHIÊN CỨU
+
+2.1. Các khái niệm liên quan đến vấn đề nghiên cứu
+
+2.2. Các lý thuyết nền liên quan đến vấn đề nghiên cứu
+
+2.3. Các công trình nghiên cứu liên quan trong nước và nước ngoài liên quan
+2.3.1. Các công trình nước ngoài
+2.3.2. Các công trình trong nước
+
+2.4. Giả thuyết và mô hình nghiên cứu đề xuất
+2.4.1. Các giả thuyết nghiên cứu
+2.3.2. Mô hình nghiên cứu đề xuất
+
+Tóm tắt chương 2
+
+
+CHƯƠNG 3. THIẾT KẾ NGHIÊN CỨU
+
+3.1. Quy trình nghiên cứu
+
+3.2. Phương pháp nghiên cứu
+3.2.1. Nghiên cứu định tính
+3.2.2. Nghiên cứu định lượng
+3.2.3. Xây dựng thang đo
+3.2.4. Phương pháp lấy mẫu
+3.2.5. Phương pháp xử lý số liệu
+
+Tóm tắt chương 3
+
+
+CHƯƠNG 4. KẾT QUẢ NGHIÊN CỨU VÀ THẢO LUẬN
+
+4.1. Giới thiệu cụ thể về đối tượng hay đơn vị nghiên cứu
+
+4.2. Thống kê mô tả mẫu nghiên cứu
+
+4.3. Phân tích độ tin cậy thang đo (cronbach's alpha)
+
+4.4. Phân tích nhân tố (EFA)
+
+4.5. Mô hình nghiên cứu hiệu chỉnh
+
+4.6. Phân tích hồi quy và kiểm định mô hình
+4.6.1. Phân tích hồi quy
+4.6.2. Đánh giá sự phù hợp của mô hình hồi quy bội
+4.6.3. Kiểm định độ phù hợp của mô hình
+
+4.7. Thảo luận
+
+Tóm tắt chương 4
+
+
+CHƯƠNG 5. KẾT LUẬN VÀ HÀM Ý QUẢN TRỊ
+
+5.1. Kết luận
+
+5.2. Hàm ý quản trị
+
+5.3. Hạn chế và hướng nghiên cứu tiếp theo
+
+TÀI LIỆU THAM KHẢO (Không ghi số trang)
+
+PHỤ LỤC (Kết qủa chạy mô hình SPSS và không ghi số trang)
+
+PHỤ LỤC: ĐÁNH GIÁ CHUNG VỀ KẾT QUẢ THỰC HIỆN HỌC KỲ DOANH NGHIỆP VÀ CÁC GIÁ TRỊ NHẬN ĐƯỢC TỪ HỌC KỲ DOANH NGHIỆP
+
+1. Các mục tiêu thực hiện học kỳ doanh nghiệp
+2. Kết quả đạt được sau khi hoàn thành HKDN
+3. Giá trị nhận được từ học kỳ doanh nghiệp
+
+
+HÌNH THỨC TRÌNH BÀY
+
+1. Quy định định dạng trang
+
+Khổ trang: A4, đánh máy vi tính 1 mặt.
+Canh lề trái: 3,5 cm; Canh lề phải, đầu trang và cuối trang 2 cm.
+Size chữ: Time New Roman, cỡ chữ 13.
+Cách dòng: Line Space: 1.5; Spacing: 0pt
+Các đoạn văn (Paragraphs) cách nhau Spacing: 6pt (dòng: Line Space: 1.5)
+
+2. Đánh số trang
+
+Từ trang bìa đến trang "Mục lục" đánh chữ số La Mã thường (i, ii, iii, iv).
+Từ "MỞ ĐẦU" đến phần "TÀI LIỆU THAM KHẢO" đánh theo số (1,2,3), canh giữa ở cuối trang.
+
+3. Đánh số các đề mục
+
+Đánh theo số thứ tự của chương và số thứ tự của đề mục cấp trên, sử dụng chữ số (1,2,3…). Xem đề cương mẫu ở Phụ lục 1.
+
+Các tiểu mục của khoá luận được trình bày và đánh số thành nhóm chữ số, nhiều nhất bốn chữ số với số thứ nhất chỉ số chương (ví dụ 4.1.2.1 chỉ tiểu mục 1, nhóm tiểu mục 2, mục 1, chương 4). Tại mỗi nhóm tiểu mục phải có ít nhất hai tiểu mục.
+
+Cách đánh số chương như sau:
+
+Chương 1. TÊN CHƯƠNG (Chương 1 chữ thường, in đậm, font 14. Tên chương in hoa, font 14)
+1.1. ........................
+1.1.1...............
+1.1.2...........
+1.2.............
+
+Chương 2. TÊN CHƯƠNG
+2.1. ........................
+2.2. ........................
+
+Chương 3. TÊN CHƯƠNG
+3.1. ........................
+3.2. ........................
+
+Các tiểu mục do sinh viên triên khai đồng bộ theo từng cấp. Ví dụ: mục "1.1" có thể in đậm, chữ thường (không được in hoa), tiếp đến mục "1.1.1" chữ nghiêng, đậm, tiếp đến mục "1.1.1.1" chữ nghiêng. Tuy nhiên, cấp tiểu mục khác nhau thì font chữ phải quy định khác nhau.
+
+4. Đánh số bảng, đồ thị, hình, sơ đồ
+
+Mỗi loại công cụ minh họa (bảng, đồ thị, hình, sơ đồ) được đặt tên và đánh số thứ tự trong mỗi chương có sử dụng bảng, đồ thị, hình, sơ đồ để minh họa. Số đầu là số chương, sau đó là số thứ tự của công cụ minh họa trong chương đó.
+
+Việc đánh số bảng biểu, hình vẽ, sơ đồ, phương trình phải gắn với số chương; ví dụ Sơ đồ 3.4 có nghĩa là Sơ đồ thứ 4 trong chương 3. Mọi đồ thị, bảng biểu lấy từ các nguồn khác phải được trích dẫn đầy đủ, ví dụ "Nguồn: Bộ Tài chính, 1996". Nguồn được trích dẫn phải được liệt kê chính xác trong danh mục Tài liệu tham khảo.
+
+Đầu đề của bảng biểu ghi phía trên bảng, đầu đề của Sơ đồ ghi phía dưới Sơ đồ. Các bảng rộng vẫn nên trình bày theo chiều đứng dài 297m của trang giấy, chiều rộng của trang giấy có thể hơn 210m.
+
+Khi đề cập đến các bảng biểu và hình vẽ phải nêu rõ số của hình và bảng biểu đó, ví dụ "... được nêu trong bảng 4.1" hoặc "(xem Bảng 3.2)" mà không được viết "... được nêu trong bảng dưới đây" hoặc "trong đồ thị của X và T sau".
+
+Trong bảng biểu có số liệu thì tối thiểu phải có 01 cột hoặc hàng được tính toán hoặc so sánh, có thể sử dụng các chỉ tiêu như tỷ trọng, tốc độ phát triển, tốc độ tăng trưởng....
+
+Tên bảng ở trên đầu bảng; Tên hình, sơ đồ nằm ở dưới hình, sơ đồ.
+
+Ví dụ: Bảng 2.6: Qui mô và cơ cấu khách đến Việt Nam phân theo phương tiện, có nghĩa bảng số 6 ở chương 2 có tên gọi là "Qui mô và cơ cấu khách đến Việt Nam phân theo phương tiện".
+
+Bảng 2.6. Qui mô và cơ cấu khách đến Việt Nam phân theo phương tiện
+Đơn vị tính: Khách
+
+2021                    2022                    2023                    So sánh (%)
+Ngàn lượt  Tỷ trọng(%)  Ngàn lượt  Tỷ trọng(%)  Ngàn lượt  Tỷ trọng(%)  2022/2022  2023/2022
+
+Đường không  1113,1  52,0  1540,3  58,6  2335,2  67,2
+Đường thủy   256,1   12,0  309,1   11,8  200,5   5,8
+Đường bộ     770,9   36,0  778,8   29,6  941,8   27,1
+Tổng số      2140,1  100,0 2628,2  100,0 3477,5  100,0
+
+Nguồn: Nguyễn Văn Sơn, 2023
+
+Lưu ý: 
+Bảng phải có đơn vị tính, tên bảng, nguồn.
+Tên bảng phải đánh số và nằm phía trên, không có đường kẻ dọc. Nên có chỉ tiêu so sánh như tốc độ phát triển, tốc độ tăng trưởng hay tỷ trọng, thị phần...
+
+Ví dụ: Biểu đồ 2.4. Cơ cấu thị trường Outbound của Việt Nam, có nghĩa là đồ thị số 4 trong chương 2 có tên gọi là "Cơ cấu thị trường Outbound của Việt Nam"
+
+Biểu đồ 2.4. Cơ cấu thị trường Outbound của Việt Nam
+Nguồn: Nguyễn Văn Sơn, 2024
+
+Biểu đồ 2.2: 10 nhóm hàng xuất khẩu đạt mức tăng về trị giá lớn nhất năm 2023
+Nguồn: Tổng cục Hải quan, 2023
+
+Lưu ý: Tên sơ đồ, biểu đồ, đồ thị nằm phía dưới; phải có nguồn lấy số liệu.
+
+5. Viết tắt
+
+Không lạm dụng việc viết tắt trong khoá luận. Chỉ viết tắt những từ, cụm từ hoặc thuật ngữ được sử dụng nhiều lần trong khoá luận. Không viết những cụm từ dài, những mệnh đề; không viết tắt những cụm từ ít xuất hiện trong khoá luận. Nếu cần viết tắt những từ, thuật ngữ, tên các cơ quan, tổ chức... thì được viết tắt sau lần viết thứ nhất có kèm theo chữ viết tắt trong ngoặc đơn.
+
+Khoá luận phải có bảng danh mục các chữ viết tắt (xếp theo thứ tự ABC) ở phần đầu khoá luận.
+
+Không được viết tắt tại tên khoá luận và các đề mục trong khoá luận.
+
+6. Hướng dẫn trích dẫn tài liệu phần nội dung bài (Cách dẫn nguồn trong khoá luận)
+
+Cách thức trích dẫn và ghi danh mục tài liệu tham khảo theo Hệ thống Havard là hệ thống trích theo tên tác giả và năm xuất bản. Theo hệ thống này thì họ (surname) của tác giả và năm xuất bản của tài liệu tham khảo sẽ được ghi trong phần bài viết của luận văn, luận án, bài báo...). Mỗi thông tin được trích dẫn phải được ghi rõ nguồn trích dẫn chính xác và nhất quán trong toàn bài viết.
+
+Các hình thức trích dẫn: trích dẫn các thông tin, nội dung của các tài liệu trong phần nội dung bài viết có 2 dạng khác nhau: trích dẫn trực tiếp và trích dẫn gián tiếp.
+
+6.1. Trích dẫn trực tiếp
+
+Khi tên của tác giả được nêu trong câu/đoạn văn, hoặc trích dẫn nguyên văn một phần câu, một câu, một đoạn văn, hình ảnh, sơ đồ, quy trình... vào bài viết. Trích dẫn nguyên văn phải bảo đảm đúng chính xác từ ngữ, định dạng thông tin của tác giả được trích dẫn. "Phần trích dẫn được đặt trong ngoặc kép", (tên tác giả, năm xuất bản và số trang) hoặc trong 'ngoặc đơn'.
+
+Ví dụ:
+
+"Điều then chốt để hiểu kinh tế học vi mô là phải nhận biết rằng tiêu điểm chính của nó là vai trò của các loại giá" (Gittins, 2006, trang 18).
+
+Cormack (1994, trang 32-33) phát biểu rằng "khi viết bài mà bài viết đó có các độc giả là giới chuyên môn học thuật đọc, người viết luôn luôn/lúc nào cũng phải nêu nguồn trích dẫn từ các công trình đã được xuất bản".
+
+Cormack (1994, pp.32-33) states that "when writing for a professional readership, writers invariably make reference to already published works".
+
+Lưu ý: Theo hệ thống Harvard thì trích dẫn trực tiếp được đặt trong ngoặc kép. Nhưng việc sử dụng ngoặc đơn cũng có thể được và nhiều trường trên thế giới áp dụng cho dễ nhìn.
+
+6.2. Trích dẫn gián tiếp
+
+Là việc sử dụng một cụm từ, ý tưởng, kết quả, hoặc đại ý của một vấn đề để diễn tả theo ý, cách viết của mình trong bài viết. Đây là cách trích dẫn được khuyến khích sử dụng để trích dẫn trong bài.
+
+Trường hợp không thể viết lại khác hơn hoặc muốn giữ nguyên văn của tác giả được trích dẫn thì mới áp dụng cách trích dẫn trực tiếp. Khi không nêu tên của tác giả trong câu/đoạn văn viết mà chỉ sử dụng thông tin/ ý tưởng thì tên tác giả và năm xuất bản (cách nhau dấu phẩy) được đặt trong ngoặc đơn ở cuối câu/đoạn văn.
+
+Ví dụ:
+
+Việc tham khảo và trích dẫn các tài liệu đã xuất bản là một đặc trưng trong việc viết những bài cho đối tượng độc giả là những nhà chuyên môn học thuật (Cormack, 1994).
+
+Making reference to published work appears to be characteristic of writing for a professional audience (Cormack, 1994).
+
+6.3. Quy định về trích dẫn
+
+Tác giả của các thông tin được trích dẫn trong bài được định nghĩa là cá nhân (một tác giả), tập thể (nhiều tác giả), các cơ quan, tổ chức (chính phủ, phi chính phủ, liên hiệp quốc, hội/đoàn khoa học, trong nước và ngoài nước). Không ghi học hàm, học vị, địa vị xã hội của tác giả.
+
+Tác giả là người Việt Nam, viết bằng tiếng việt: ghi đầy đủ họ và tên của tác giả theo đúng trật tự của tiếng Việt. Ví dụ: Nguyễn Văn Hóa (20019), Trịnh Thị Vân Hà (2020), Nguyễn Hoàng Dương (2015)..
+
+Tác giả là người nước ngoài, viết bằng tiếng Anh: ghi họ của tác giả (theo cách viết tiếng Anh của nước ngoài). Ví dụ: tên đầy đủ của tác giả và năm xuất bản là Hans Opschoor (2015) thì ghi là Opschoor (2015); James Robert Jones (1992) thì ghi là Jones (1992).
+
+Công trình nghiên cứu có 03 tác giả trở lên thì dẫn tên tác giả chính và cộng sự. Ví dụ: Nguyễn Quyết Thắng, Vũ Thị Hường và Tô Thu thủy (2015) thì dẫn là Nguyễn Quyết Thắng và cộng sự (2015). Tuy nhiên, danh mục tài liệu tham khảo phải có đầy đủ cả 03 tác giả này.
+
+Tác giả là các tổ chức, không phải là cá nhân hoặc tập thể tác giả: thì ghi tên tổ chức như Tổng cục Du lịch Việt Nam (2015); Sở Du lịch Tp.HCM (2016)...
+
+Nếu tổ chức/cơ quan đó có tên viết tắt rất phổ biến và nhiều người biết đến thì sử dụng tên viết tắt. Nếu không thì ghi đầy đủ tên cơ quan/tổ chức. Ví dụ: Tổng cục thống kê hoặc TCTK; Ngân hàng thế giới hoặc NHTG; Trường Đại học Công Thương TP. Hồ Chí Minh hoặc HUIT; General Statistical Office hoặc GSO; World Bank hoặc WB, United Nations Development Programme hoặc UNDP, International Monetary Fund hoặc IMF... Tuy nhiên, các từ viết tắt này phải có trong danh mục các từ viết tắt đầu khoá luận.
+
+Lưu ý: Khoá luận chỉ được dẫn nguồn từ các bài nghiên cứu, báo cáo, số liệu của các cơ quan ban ngành; báo cáo và số liệu công bố của các tổ chức trong và nước, luận văn thạc sĩ, luận án tiến sĩ, đề tài NCKH, công trình nghiên cứu khoa học các cấp... Tuyết đối không được dẫn nguồn của các bậc học thấp hơn như khoá luận tốt nghiệp đại học, tiểu luận, báo cáo bậc đại học, cao đẳng...
+
+7. Hướng dẫn trình bày và sắp xếp tài liệu tham khảo
+
+7.1. Trình bày tài liệu tham khảo
+
+Khoa QTKD yêu cầu việc dẫn nguồn và tài liệu tham khảo phải được sinh viên quan tâm và làm đúng theo hướng dẫn. Đây là điều rất cơ bản trong nghiên cứu nên khoá luận sẽ không được bảo vệ nếu không thực hiện đúng vấn đề này.
+
+Sách: Tên tác giả (năm xb). Tên sách. Nhà xb, Nơi xb.
+
+Bài báo nghiên cứu đăng trên tạp chí:
+Tên tác giả (năm xb). 'Tên bài báo'. Tên tạp chí, Volume (số), số trang đầu & cuối của bài báo trong tạp chí.
+
+Bài báo đăng trên tạp chí điện tử:
+Tên tác giả (năm xb). Tên bài báo [online], tên tạp chí điện tử, Volume (số), ngày xem, truy cập từ <URL>.
+
+Bài báo được đăng trong Kỷ Yếu Hội Thảo:
+Tên tác giả (năm tổ chức HT). Tên bài báo. Tên kỷ yếu hội thảo, ngày tổ chức HT, địa điểm tổ chức HT, số trang đầu & cuối của bài báo được in trong kỷ yếu.
+
+Sách điện tử:
+Tên tác giả (năm xb). Tên sách [online], Nhà xb, ngày truy cập, từ <URL>.
+
+Luận văn/luận án:
+Tên tác giả (năm xb). Tên đề tài luận văn/luận án. Luận văn thạc sĩ/Luận án tiến sĩ, Khoa chuyên ngành, tên Trường Đại học.
+
+Các tài liệu từ internet/website:
+Tên tác giả (năm). Tên tài liệu [online], ngày tháng năm truy cập, từ <URL>.
+
+Báo cáo của Chính phủ:
+Tên tác giả/tên cơ quan chính phủ (năm xb báo cáo). Tên báo cáo, tên bộ phận trực tiếp lập báo cáo. Nơi xuất bản báo cáo, số trang của báo cáo.
+
+Văn bản pháp lý của Chính phủ:
+Tên tác giả/tên cơ quan chính phủ (năm xb báo cáo). Tên văn bản/qui định, cơ quan ban hành văn bản/qui định, số hiệu của văn bản/qui định pháp lý. Nơi ban hành.
+
+Bản vẽ, hình vẽ, hình ảnh:
+Tên tác giả/tên cơ quan (năm phát hành bản vẽ, hình ảnh). Tiêu đề hình ảnh, bản vẽ, hình vẽ, Nơi phát hành bản vẽ, hình ảnh.
+
+7.2. Sắp xếp tài liệu tham khảo
+
+Danh mục tài liệu tham khảo được liệt kê trong trang "Tài liệu tham khảo" và sắp xếp theo các thông lệ sau:
+
+Tài liệu tham khảo được xếp riêng theo từng ngôn từ (Việt, Anh, Pháp, Đức. Nga, Trung, Nhật). Các tài liệu bằng tiếng nước ngoài phải giữ nguyên văn, không phiên âm, không dịch.
+
+Tài liệu tham khảo phân theo các phần như sau:
+
+Các văn bản hành chính nhà nước
+VD: Quốc hội, Luật Lao động, 2019.
+
+Sách tiếng Việt
+
+Sách tiếng nước ngoài
+
+Báo, tạp chí
+
+Các trang web
+
+Các tài liệu gốc của cơ quan kiến tập
+
+Tài liệu tham khảo sắp xếp theo thứ tự ABC họ tên tác giả luận văn theo thông lệ:
+
+Tác giả là người nước ngoài: xếp thứ tự ABC theo họ.
+
+Tác giả là người Việt Nam: xếp thứ tự ABC theo tên nhưng vẫn giữ nguyên thứ tự thông thường của tên người Việt Nam. Không đảo tên lên trước họ.
+
+Tài liệu không có tên tác giả thì xếp theo thứ tự ABC từ đầu của tên cơ quan ban hành báo cáo hay ấn phẩm, ví dụ: Nhà xuất bản giáo dục xếp vào vần N, Bộ Giáo Dục và Đào tạo xếp vào vần B…
+
+Nếu tài liệu chưa công bố ghi (Tài liệu chưa công bố); nếu tài liệu nội bộ, ghi (Lưu hành nội bộ).
+
+Sắp xếp thứ tự theo chữ cái đầu tiên của tên tác giả, nếu chữ cái thứ nhất giống nhau thì phân biệt theo chữ cái tiếp theo, nếu trùng chữ cái thì phân biệt theo vần, trùng vần thì phân biệt theo dấu thanh: không huyền sắc hỏi ngã nặng.
+
+Tài liệu nước ngoài ít thì xếp chung, nhiều thì xếp thành mục riêng: Tài liệu trong nước, tài liệu nước ngoài.
+
+Có thể xếp chung sách và báo hoặc xếp riêng: I. Sách; II. Báo; III. Tài liệu khác.
+
+Nhiều người thì ghi: Nhiều tác giả, Nhiều soạn giả, Nhiều dịch giả, xếp theo chữ cái.
+
+Nhiều tác giả nhưng có chủ nhiệm, chủ biên thì ghi tên của chủ nhiệm, chủ biên.
+
+Nếu xếp chung tài liệu Việt Nam và nước ngoài thì điều chỉnh theo trật tự chung.
+
+Tên cơ quan, địa phương: sử dụng chữ cuối cùng làm tên tác giả, ví dụ: Tỉnh Lâm Đồng, Viện Dân tộc học, để xếp theo chữ cái Đ, H.
+
+Ví dụ trình bày phần Tài liệu tham khảo:
+
+TÀI LIỆU THAM KHẢO
+
+Trịnh Lê A và Giang Xuân H (2023). "Tiếp cận loại hình du lịch thể thao – mạo hiểm". Tạp chí Du lịch Việt Nam, số 5.
+
+Nguyễn Văn C (2021). Bàn về bản sắc văn hoá Việt Nam. Giáo dục.
+
+Nguyễn Văn Sơn (2022). "Du lịch văn hoá ở Việt Nam". Du lịch sinh thái và du lịch văn hoá. NXB Thống kê.
+
+Mẫu bìa, các trang đặt trước và sau nội dung khoá luận (xem các mẫu ở phần cuối tài liệu)
+
+7. Các Mẫu, Gồm các trang:
+
+Các mẫu đặt trước nội dung:
+Mẫu 1. Trang bìa
+Mẫu 2. Trang phụ bìa
+Mẫu 3. Lời cam đoan
+Mẫu 4. Lời cảm ơn
+Mẫu 5. Nhận xét của giảng viên hướng dẫn
+Mẫu 6. Danh mục các ký hiệu, chữ viết tắt
+Mẫu 7. Danh mục các bảng sử dụng
+Danh mục các biểu đồ, đồ thị, sơ đồ, hình ảnh
+Mẫu 8. Mục lục
+Mẫu 9. Mở đầu
+
+Các mẫu đặt sau nội dung đồ án:
+Mẫu 10. Phụ lục
+Mẫu 11. Danh mục tài liệu tham khảo
+
+
+PHỤ LỤC 1. MẪU ĐỀ CƯƠNG THAM KHẢO (3 CHƯƠNG)
+
+HOÀN THIỆN CÔNG TÁC QUẢN TRỊ NGUỒN NHÂN LỰC TẠI CÔNG TY ABC
+
+MỞ ĐẦU
+1. Lý do chọn đề tài
+2. Mục tiêu của đề tài
+3. Đối tượng và phạm vi nghiên cứu
+4. Phương pháp nghiên cứu
+5. Ý nghĩa của đề tài
+6. Bố cục của đề tài
+
+CHƯƠNG 1. CƠ SỞ LÝ LUẬN VỀ QUẢN TRỊ NGUỒN NHÂN LỰC
+
+1.1. Một số khái niệm liên quan đến quản trị nguồn nhân lực
+1.1.1. Khái niệm nguồn nhân lực
+1.1.2. Khái niệm quản trị
+1.1.3. Khái niệm quản trị nguồn nhân lực
+
+1.2. Đặc điểm, chức năng, vai trò của quản trị nguồn nhân lực
+
+1.3. Nội dung chính của quản trị nguồn nhân lực
+1.3.1. Hoạch định nguồn nhân lực
+1.3.2. Phân tích công việc
+1.3.3. Tuyển dụng nhân sự
+1.3.4. Đào tạo và phát triển nguồn nhân lực
+1.3.5. Đánh giá kết quả làm việc
+1.3.6. Trả công lao động
+1.3.7. Quan hệ lao động
+
+1.4. Các yếu tố cơ bản ảnh hưởng đến công tác quản trị nguồn nhân lực
+
+1.5. Bài học kinh nghiệm tại một số đơn vị về hoàn thiện công tác quản trị nguồn nhân lực
+
+Tóm tắt chương 1
+
+CHƯƠNG 2. THỰC TRẠNG HOẠT ĐỘNG QUẢN TRỊ NGUỒN NHÂN LỰC TẠI CÔNG TY ABC
+
+2.1. Khái quát chung về Công ty ABC
+2.1.1. Quá trình hình thành và phát triển
+2.1.2. Đặc điểm sản xuất kinh doanh
+2.1.3. Bộ máy tổ chức
+2.1.3.1. Sơ đồ cơ cấu tổ chức
+2.1.3.2. Nhiệm vụ của các phòng ban
+2.1.4. Tình hình kinh doanh trong các năm gần đây
+2.1.4.1. Công tác huy động vốn
+2.1.4.2. Hoạt động sử dụng vốn của Công ty …
+
+2.2. Thực trạng hoạt động quản trị nguồn nhân lực tại công ty ABC (Giới thiệu thêm sơ đồ chức năng bộ phần liên quan làm đề tài)
+2.2.1. Thực trạng hoạch định nguồn nhân lực
+2.2.2. Thực trạng phân tích công việc
+2.2.3. Thực trạng tuyển dụng nhân sự
+2.2.4. Thực trạng đào tạo và phát triển nguồn nhân lực
+2.2.5. Thực trạng đánh giá kết quả làm việc
+2.2.6. Thực trạng trả công lao động
+2.2.7. Thực trạng quan hệ lao động
+
+2.3. Đánh giá chung về hoạt động quản trị nguồn nhân lực tại công ty ABC
+2.3.1. Ưu điểm của công tác quản trị nguồn nhân lực
+2.3.2. Hạn chế của công tác quản trị nguồn nhân lực
+2.3.3. Nguyên nhân của các hạn chế
+
+Tóm tắt chương 2
+
+CHƯƠNG 3. MỘT SỐ GIẢI PHÁP HOÀN THIỆN CÔNG TÁC QUẢN TRỊ NGUỒN NHÂN LỰC TẠI CÔNG TY ABC
+
+3.1. Cơ sở đề ra giải pháp
+
+3.2. Giải pháp hoàn thiện công tác quản trị nguồn nhân lực tại công ty ABC
+3.2.1. Giải pháp về hoạch định nguồn nhân lực
+3.2.2. Giải pháp về phân tích công việc
+3.2.3. Giải pháp về tuyển dụng nhân sự
+3.2.4. Giải pháp về đào tạo và phát triển nguồn nhân lực
+3.2.5. Giải pháp về đánh giá kết quả làm việc
+3.2.6. Giải pháp về trả công lao động
+3.2.7. Giải pháp về quan hệ lao động
+
+KẾT LUẬN (nội dung toàn bài)
+
+
+PHỤ LỤC 2: ĐỀ CƯƠNG THAM KHẢO (5 CHƯƠNG)
+
+CHƯƠNG 1. TỔNG QUAN VỀ ĐỀ TÀI NGHIÊN CỨU
+
+1.1. Tính cấp thiết của vấn đề nghiên cứu
+
+1.2. Mục tiêu nghiên cứu của đề tài
+
+1.3. Đối tượng và phạm vi nghiên cứu
+
+1.4. Phương pháp nghiên cứu
+
+1.5. Ý nghĩa khoa học và thực tiễn của đề tài
+
+1.6. Bố cục của khoá luận tốt nghiệp
+
+Tóm tắt chương 1
+
+CHƯƠNG 2. CƠ SỞ LÝ THUYẾT VÀ MÔ HÌNH NGHIÊN CỨU
+
+2.1. Một số khái niệm liên quan đến vấn đề nghiên cứu
+2.1.1. Khái niệm
+2.1.2. Khái niệm
+
+2.2. Các công trình nghiên cứu liên quan
+2.2.1. Một số nghiên cứu trong nước
+2.2.2. Một số nghiên cứu trên thế giới
+
+2.3. Giả thuyết và mô hình nghiên cứu đề xuất
+2.3.1. Giả thuyết nghiên cứu
+2.3.2. Mô hình nghiên cứu đề xuất
+
+Tóm tắt chương 2
+
+CHƯƠNG 3. THIẾT KẾ NGHIÊN CỨU
+
+3.1. Quy trình nghiên cứu
+
+3.2. Phương pháp nghiên cứu
+3.3.1. Nghiên cứu định tính
+3.3.2. Xây dựng thang đo
+3.3.3. Phương pháp lấy mẫu
+3.3.4. Nghiên cứu định lượng
+
+Tóm tắt chương 3
+
+CHƯƠNG 4. KẾT QUẢ NGHIÊN CỨU
+
+4.1. Giới thiệu về đơn vị thực tập, về vấn đề nghiên cứu
+
+4.2. Thống kê mô tả mẫu nghiên cứu
+
+4.3. Phân tích độ tin cậy của thang đo (CRONBACH'S ALPHA)
+4.3.1. Phân tích độ tin cậy (Cronbach's Alpha) nhân tố Nhận biết thương hiệu
+4.3.2. Phân tích độ tin cậy (Cronbach's Alpha) Liên tưởng thương hiệu
+4.3.3. Phân tích độ tin cậy (Cronbach's Alpha) Sự vượt trội thương hiệu
+4.3.4. Phân tích độ tin cậy (Cronbach's Alpha) Sự hấp dẫn thương hiệu
+4.3.5. Phân tích độ tin cậy (Cronbach's Alpha) Sự cộng hưởng thương hiệu
+4.3.6. Phân tích độ tin cậy (Cronbach's Alpha) Trách nhiệm xã hội
+
+4.4. Phân tích nhân tố EFA
+
+4.5. Mô hình nghiên cứu hiệu chỉnh
+
+4.6. Phân tích hồi quy và kiểm định mô hình
+4.6.1. Phân tích hồi quy
+4.6.2. Đánh giá sự phù hợp của mô hình hồi quy bội
+4.6.3. Kiểm định độ phù hợp của mô hình
+
+4.7. Thảo luận
+
+Tóm tắt chương 4
+
+CHƯƠNG 5. KẾT LUẬN VÀ KHUYẾN NGHỊ
+
+5.1. Kết luận
+
+5.2. Khuyến nghị
+
+5.3. Hạn chế và hướng nghiên cứu tiếp theo
+
+
+PHẦN MẪU
+
+Mẫu 01. Trang bìa
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THỰC PHẨM TP.HCM
+KHOA QUẢN TRỊ KINH DOANH
+(size 16)
+
+KHÓA LUẬN TỐT NGHIỆP (size 20)
+<TÊN ĐỀ TÀI> (size 20)
+
+Giảng viên hướng dẫn: (size 14)
+Sinh viên thực hiện: (size 14)
+Khóa: (size 14)
+Lớp: (size 14)
+
+TP. Hồ Chí Minh, tháng … năm …..
+
+
+Mẫu 02. Trang phụ bìa
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHIỆP THỰC PHẨM TP.HCM
+KHOA QUẢN TRỊ KINH DOANH
+(size 16)
+
+KHÓA LUẬN TỐT NGHIỆP (size 20)
+<TÊN ĐỀ TÀI> (size 20)
+
+Giảng viên hướng dẫn: (size 14)
+Sinh viên thực hiện: (size 14)
+Khóa: (size 14)
+Lớp: (size 14)
+
+TP. Hồ Chí Minh, tháng … năm…..
+
+
+Mẫu 03. LỜI CAM ĐOAN (size 16)
+
+…
+
+, ngày ..tháng ..năm…
+(SV ký và ghi rõ họ tên)
+
+
+Mẫu 04. LỜI CẢM ƠN (size 16)
+
+Tác giả bày tỏ tình cảm của mình đối với những cá nhân, tập thể và những ai liên quan đã hướng dẫn giúp đỡ, cộng tác và tài trợ kinh phí cho quá trình thực hiện…. (size 13)
+
+, ngày ..tháng ..năm
+Sinh viên thực hiện
+Họ và tên sinh viên
+
+(Nêu ngắn gọn, không dài quá 01 trang)
+
+
+Mẫu 04. NHẬN XÉT CỦA GIẢNG VIÊN HƯỚNG DẪN
+
+Họ và tên sinh viên: (1) ....................................................... MSSV:........................................
+Khoá: ........................................................................................................................................
+
+…………………………………………………………………………………………………
+…………………………………………………………………………………………………
+…………………………………………………………………………………………………
+…………………………………………………………………………………………………
+…………………………………………………………………………………………………
+
+TPHCM, ngày … tháng … năm 202…
+(Ký và ghi rõ họ tên)
+
+
+Mẫu 06. DANH MỤC CÁC KÝ HIỆU, CHỮ VIẾT TẮT
+
+ĐH      Đại học
+…       …
+…       …
+
+
+Mẫu 07. DANH MỤC CÁC BẢNG
+
+Bảng 1.1: Ví dụ về ma trận ............................................................................................ Trang
+Bảng 1.2: Ví dụ về ......................................................................................................... Trang
+Bảng 2.1: ...................................................................................................................... Trang
+Bảng 2.2: ....................................................................................................................... Trang
+
+DANH MỤC CÁC BIỂU ĐỒ, ĐỒ THỊ, SƠ ĐỒ, HÌNH ẢNH
+
+Sơ đồ 1.1: Ma trận ........................................................................................................... Trang
+Sơ đồ 2.1: Cơ cấu tổ chức ................................................................................................ Trang
+Biểu đồ 2.1: .................................................................................................................... Trang
+Biểu đồ 2.2: ...................................................................................................................... Trang
+
+
+Mẫu 8. MỤC LỤC
+
+MỞ ĐẦU
+
+CHƯƠNG 1. .................................................................................................................... xxx
+1.1. ..................................................................................................................................... xxx
+1.1.1. .................................................................................................................................. xxx
+…
+1.2. ..................................................................................................................................... xxx
+1.2.1. .................................................................................................................................. xxx
+…
+Tóm tắt chương 1 ............................................................................................................ xxx
+
+CHƯƠNG 2. .................................................................................................................... xxx
+2.1. ..................................................................................................................................... xxx
+2.1.1. .................................................................................................................................. xxx
+…
+2.2. ..................................................................................................................................... xxx
+2.2.1. .................................................................................................................................. xxx
+…
+Tóm tắt chương 2 ............................................................................................................ xxx
+
+CHƯƠNG 3. .................................................................................................................... xxx
+3.1. ..................................................................................................................................... xxx
+3.1.1. .................................................................................................................................. xxx
+…
+3.2. ..................................................................................................................................... xxx
+3.2.1. .................................................................................................................................. xxx
+…
+Tóm tắt chương 3 ............................................................................................................ xxx
+
+KẾT LUẬN ...................................................................................................................... xxx
+PHỤ LỤC ......................................................................................................................... xxx
+TÀI LIỆU THAM KHẢO .............................................................................................. xxx
+
+
+Mẫu 9. MỞ ĐẦU
+
+1. Lý do chọn đề tài
+…
+
+2. Mục tiêu đề tài
+…
+
+3. Đối tượng nghiên cứu và phạm vi nghiên cứu
+…
+
+4. Phương pháp nghiên cứu
+…
+
+5. Ý nghĩa của đề tài
+…
+
+6. Kết cấu đề tài
+…
+
+NỘI DUNG CÁC CHƯƠNG
+
+CHƯƠNG 1:…….
+CHƯƠNG 2:…….
+CHƯƠNG 3:…….
+CHƯƠNG 4:…….
+CHƯƠNG 5:…….
+
+
+Mẫu 10. PHỤ LỤC
+
+Phụ lục 1.
+Phụ lục 2.
+...
+(không đánh số trang)
+
+
+Mẫu 11. TÀI LIỆU THAM KHẢO
+
+[1] ........................................
+[2] ........................................
+
+
+HẾT

@@ -1,0 +1,47 @@
+
+Bộ môn Mạng máy tính và An toàn Thông tin trực thuộc Khoa Công nghệ Thông tin, Trường Đại học Công Thương, 
+được thành lập vào tháng 11 năm 2003. Trải qua hơn 20 năm hình thành và phát triển, Bộ môn không ngừng đổi mới, 
+nâng cao chất lượng giảng dạy và nghiên cứu khoa học, đóng góp nguồn nhân lực chất lượng cao trong lĩnh vực hệ thống mạng 
+và an toàn thông tin cho doanh nghiệp và tổ chức trong nước cũng như quốc tế.
+
+1. Đội ngũ giảng viên
+- Bộ môn hiện có 9 giảng viên cơ hữu:
+  + 02 Tiến sĩ
+  + 02 Nghiên cứu sinh
+  + 05 Thạc sĩ
+- Ngoài ra có đội ngũ giảng viên thỉnh giảng là các chuyên gia từ trường đại học, học viện và doanh nghiệp công nghệ.
+- Đội ngũ luôn cập nhật xu hướng công nghệ mới, hỗ trợ sinh viên học tập, nghiên cứu, định hướng nghề nghiệp.
+
+2. Nhiệm vụ đào tạo
+- Giảng dạy các học phần chuyên sâu về Mạng máy tính và An toàn thông tin.
+- Lĩnh vực đào tạo chính:
+Thiết kế, cài đặt, cấu hình và quản trị hệ thống mạng.
+Xây dựng và quản lý hệ thống máy chủ, hạ tầng mạng quy mô lớn.
+Triển khai giải pháp bảo mật, phòng chống tấn công mạng, quản trị an toàn thông tin.
+Tiếp cận công nghệ mới: Điện toán đám mây, ảo hóa, bảo mật dữ liệu, AI trong mạng máy tính.
+Tham gia dự án thực tế với doanh nghiệp, làm quen SOC, SIEM, IDS/IPS.
+
+- Học phần chuyên ngành tiêu biểu: Mạng máy tính, Quản trị mạng, Unix/Linux, Ảo hóa & Điện toán đám mây, 
+  An ninh hạ tầng mạng, Truyền số liệu, Lập trình mạng, An toàn bảo mật mạng, Hệ thống phát hiện xâm nhập, 
+  Chuyên đề công nghệ mạng tiên tiến.
+
+- Chứng chỉ quốc tế liên quan: CCNA, CCNP, MCSA, MCSE, Security+, CEH, LPI.
+
+3. Hướng nghiên cứu khoa học
+An toàn bảo mật mạng: Phòng chống tấn công, bảo vệ dữ liệu, hệ thống.
+Ảo hóa và điện toán đám mây: Tối ưu tài nguyên, triển khai hệ thống ảo hóa.
+Ứng dụng AI trong An toàn thông tin: Machine Learning, Deep Learning, Big Data để phân tích dữ liệu mạng.
+Công nghệ mạng tiên tiến: SOC, SIEM, Blockchain Security.
+
+4. Cơ hội nghề nghiệp
+- Chuyên viên quản trị mạng, kỹ sư hệ thống.
+- Chuyên gia bảo mật, phân tích và ngăn chặn tấn công mạng.
+- Kỹ sư phát triển, tối ưu hệ thống mạng, điện toán đám mây.
+- Chuyên gia tư vấn, triển khai giải pháp bảo mật, an toàn thông tin.
+- Cán bộ nghiên cứu, giảng dạy tại viện nghiên cứu, trường đại học, cao đẳng.
+
+5. Lời kết
+Ngành Mạng máy tính và An toàn thông tin đóng vai trò nòng cốt trong thời đại chuyển đổi số. 
+Kiến thức vững chắc về mạng và bảo mật giúp sinh viên có cơ hội nghề nghiệp vững vàng, 
+lợi thế cạnh tranh trên thị trường lao động. Bộ môn tự tin là nơi đào tạo, nuôi dưỡng nhân tài công nghệ, 
+tạo nên thế hệ kỹ sư xuất sắc trong tương lai.

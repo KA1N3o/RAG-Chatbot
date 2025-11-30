@@ -1,0 +1,19 @@
+Bộ môn Hệ thống thông tin trực thuộc Khoa Công nghệ thông tin, Trường Đại học Công Thương TP.HCM là đơn vị chuyên môn đào tạo và nghiên cứu về các hệ thống thông tin, dữ liệu và ứng dụng công nghệ trong quản lý, kinh doanh và sản xuất.
+
+Bộ môn đảm nhận giảng dạy các học phần nền tảng và cốt lõi thuộc chuyên ngành hệ thống thông tin. Chương trình đào tạo luôn cải tiến, cập nhật nhằm trang bị cho sinh viên kiến thức vững chắc về phân tích, thiết kế, triển khai và quản trị hệ thống thông tin, đồng thời rèn luyện kỹ năng lập trình, khai phá dữ liệu và ứng dụng công nghệ mới trong quản lý dữ liệu.
+
+Với đội ngũ giảng viên có trình độ chuyên môn cao, giàu kinh nghiệm thực tiễn, bộ môn không ngừng cập nhật xu hướng công nghệ, phối hợp với doanh nghiệp để cung cấp cho sinh viên cơ hội thực tập và tiếp cận với các hệ thống thông tin hiện đại. Sinh viên sau khi tốt nghiệp có thể đảm nhiệm nhiều vị trí như Lập trình viên hệ thống, Chuyên viên ERP, Quản trị cơ sở dữ liệu, Kỹ sư dữ liệu hoặc Nhà nghiên cứu trong lĩnh vực CNTT,...
+
+Bộ môn Hệ thống thông tin luôn sẵn sàng đồng hành cùng sinh viên trên con đường chinh phục công nghệ, góp phần xây dựng nguồn nhân lực chất lượng cao trong lĩnh vực Công nghệ thông tin và chuyển đổi số.
+
+Danh sách giảng viên:
+
+1. Nguyễn Văn Lễ | Thạc sĩ/NCS | Phó trưởng bộ môn - phụ trách | lenv@huit.edu.vn
+2. Nguyễn Thị Định | Tiến sĩ | Giảng viên | dinhnt@huit.edu.vn
+3. Nguyễn Thị Thanh Thủy | Thạc sĩ | Giảng viên | thuyntt@huit.edu.vn
+4. Đinh Thị Mận | Thạc sĩ | Giảng viên | mandt@huit.edu.vn
+5. Trần Thị Vân Anh | Thạc sĩ | Giảng viên | anhttv@huit.edu.vn
+6. Nguyễn Thế Hữu | Thạc sĩ | Giảng viên | huunthe@huit.edu.vn
+7. Lê Thị Thùy Lan | Thạc sĩ | Giảng viên | lanltt@huit.edu.vn
+8. Nguyễn Thị Thu Tâm | Thạc sĩ | Giảng viên | tamntt@huit.edu.vn
+9. Nguyễn Phương Hạc | Thạc sĩ | Giảng viên | hacnp@huit.edu.vn

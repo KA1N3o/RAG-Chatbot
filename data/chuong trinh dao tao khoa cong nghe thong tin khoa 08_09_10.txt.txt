@@ -1,0 +1,907 @@
+Tên chương trình: Công nghệ Thông tin
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Công nghệ Thông tin
+Tên ngành bằng tiếng Anh: Information Technology
+Mã số:
+Loại hình đào tạo: Chính quy tập trung
+
+
+MỤC LỤC
+
+Phần 1. Chương trình đào tạo
+1.1. Mục tiêu đào tạo
+1.2. Chuẩn đầu ra
+1.3. Thời gian đào tạo
+1.4. Khối lượng kiến thức toàn khóa
+1.5. Đối tượng tuyển sinh
+1.6. Quy trình đào tạo, điều kiện tốt nghiệp
+1.7. Thang điểm
+1.8. Nội dung chương trình
+1.9. Kế hoạch giảng dạy
+
+
+PHẦN 1. CHƯƠNG TRÌNH ĐÀO TẠO
+
+1.1. Mục tiêu đào tạo
+
+1.1.1. Mục tiêu chung
+
+Đào tạo kỹ sư, nguồn nhân lực ngành CNTT có khả năng phân tích, tư duy hệ thống và giải quyết các vấn đề thực tế; có khả năng xây dựng, vận hành và quản trị các hệ thống CNTT đáp ứng nền kinh tế tri thức; có năng lực tự học, tự nghiên cứu, sáng tạo, nhanh chóng thích nghi với sự phát triển CNTT trong, ngoài nước và có khả năng thích ứng với cuộc Cách mạng công nghiệp 4.0.
+
+Sinh viên tốt nghiệp ngành CNTT có sức khỏe, có phẩm chất chính trị tốt, có đạo đức nghề nghiệp, có ý thức tổ chức kỷ luật, có tác phong làm việc nghiêm túc, có tinh thần trách nhiệm cao, có khả năng vượt qua áp lực để hoàn thành công việc, có khả năng làm việc nhóm với tinh thần hợp tác.
+
+1.1.2. Mục tiêu cụ thể
+
+Sinh viên tốt nghiệp ngành CNTT có khả năng:
+
+Nắm vững kiến thức cơ bản trong lĩnh vực khoa học xã hội, tự nhiên để hình thành phẩm chất chính trị, đạo đức nghề nghiệp và đạo đức cách mạng;
+
+Vận dụng kiến thức khoa học cơ bản làm cơ sở giải quyết các bài toán trong lĩnh vực CNTT;
+
+Có khả năng hình thành ý tưởng, phân tích, thiết kế, giải quyết và vận hành các hệ thống CNTT;
+
+Sử dụng các công cụ, phương pháp, quy trình và kỹ thuật công nghệ để xây dựng, vận hành và quản trị các hệ thống CNTT tổng thể cho các đơn vị, công ty và doanh nghiệp;
+
+Hình thành năng lực tự học, tự nghiên cứu, sáng tạo, thích nghi với sự phát triển CNTT trong nước và thế giới. Đồng thời hình thành năng lực thích ứng với cuộc Cách mạng công nghiệp 4.0
+
+Có sức khỏe, có ý thức tổ chức kỷ luật, tác phong làm việc nghiêm túc, trách nhiệm, hợp tác làm việc nhóm và vượt qua áp lực để hoàn thành công việc.
+
+1.1.3. Cơ hội nghề nghiệp, vị trí và khả năng làm việc sau khi tốt nghiệp
+
+Sau khi tốt nghiệp, sinh viên có khả năng:
+
+Đảm nhận tốt các vị trí là cán bộ kỹ thuật, quản lý, điều hành trong lĩnh vực công nghệ thông tin;
+
+Trở thành các lập trình viên, các nhà quản trị dự án công nghệ thông tin;
+
+Trở thành cán bộ nghiên cứu, cán bộ giảng dạy về công nghệ thông tin tại các viện, trung tâm nghiên cứu và các cơ sở đào tạo;
+
+Tiếp tục học tiếp lên trình độ sau đại học ở trong nước và nước ngoài.
+
+Làm việc tại các vị trí cụ thể:
+
+Các tập đoàn, tổng công ty, hoặc công ty trong nước và ngoài nước về công nghệ thông tin, công nghệ phần mềm, quản lý hệ thống thông tin, thương mại điện tử, mạng máy tính và truyền thông.
+
+Các Cục, Vụ, các Viện và Trung tâm về Công nghệ thông tin, viễn thông, ứng dụng công nghệ thông tin, công nghệ tin học nghiệp vụ, Cục thương mại điện tử và công nghệ thông tin, Viện Nghiên cứu điện tử - tin học - tự động hóa, Viện chiến lược thông tin và truyền thông,…
+
+Các phòng chức năng: công nghệ thông tin, truyền thông, quản lý công nghệ, khoa học công nghệ, hệ thống quản trị, an ninh mạng trực thuộc cơ quan, Sở, Ngành ở các tỉnh, thành phố và các công ty trong và ngoài nước.
+
+
+1.2. Chuẩn đầu ra (CĐR)
+
+1.2.1. Chuẩn đầu ra chương trình
+
+Kiến thức
+
+(1). Có kiến thức cơ bản về lý luận chính trị, khoa học xã hội và nhân văn, hiểu biết về pháp luật Việt Nam, hiểu biết về an ninh quốc phòng, rèn luyện thể chất;
+
+(2). Có kiến thức cơ bản về công nghệ thông tin trong lĩnh vực hệ thống thông tin, công nghệ phần mềm, khoa học phân tích dữ liệu và hệ thống mạng máy tính;
+
+(3). Có kiến thức về lập trình cơ bản và chuyên sâu;
+
+(4). Hình thành ý tưởng, thiết lập yêu cầu, xác định chức năng, xây dựng mô hình cho các hệ thống công nghệ thông tin;
+
+(5). Có kiến thức về các vấn đề đương thời;
+
+(6). Có đủ kiến thức đáp ứng nhu cầu học tập ở bậc sau đại học ngành công nghệ thông tin.
+
+Kỹ năng
+
+(7). Áp dụng các kiến thức khoa học cơ bản để giải quyết các vấn đề thuộc lĩnh vực công nghệ thông tin;
+
+(8). Vận dụng các công cụ để xây dựng các phần mềm đáp ứng được nền kinh tế tri thức;
+
+(9). Xây dựng, vận hành và quản trị các hệ thống công nghệ thông tin tổng thể cho các đơn vị, công ty, doanh nghiệp;
+
+(10). Tạo các sản phẩm phần mềm đáp ứng yêu cầu người dùng;
+
+(11). Có khả năng tổ chức và điều hành làm việc nhóm hiệu quả;
+
+(12). Ứng dụng các giải pháp công nghệ mới nhằm tạo ra những sản phẩm công nghệ phần mềm;
+
+(13). Khả năng nhận diện, diễn đạt và giải quyết các vấn đề công nghệ thông tin trong bối cảnh kinh tế - xã hội toàn cầu;
+
+(14). Có khả năng giao tiếp bằng văn bản, lời nói; khả năng xác định và sử dụng tài liệu kỹ thuật phù hợp; trình độ tiếng Anh tối thiểu TOEIC 450 và tương đương;
+
+(15). Thành thạo các phương pháp và mô hình lập trình cơ bản và chuyên sâu;
+
+Thái độ
+
+(16). Có đầy đủ sức khỏe, lý luận chính trị, đạo đức cách mạng và các phẩm chất cần thiết để phục vụ cho sự nghiệp công nghiệp hóa, hiện đại hóa đất nước;
+
+(17). Có ý thức tôn trọng nội qui, qui định văn hóa nơi công tác;
+
+(18). Có ý thức chấp hành pháp luật Nhà nước;
+
+(19). Có nhận thức luôn tìm tòi, sáng tạo trong lĩnh vực công nghệ thông tin;
+
+(20). Có trách nhiệm và đạo đức hành nghề trong lĩnh vực công nghệ thông tin;
+
+(21). Nhận thức về sự cần thiết và khả năng học tập suốt đời;
+
+
+1.2.2. Chuẩn đầu ra môn học
+
+STT  DANH SÁCH MÔN HỌC  CHUẨN ĐẦU RA MÔN HỌC
+                          KIẾN THỨC  KỸ NĂNG  THÁI ĐỘ
+
+I. Nhóm môn học Lý luận chính trị, Giáo dục thể chất và Quốc phòng an ninh
+
+1. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1  (1)(5)  (7)  (16)(17)(18)(20)(21)
+2. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2
+3. Tư tưởng Hồ Chí Minh
+4. Đường lối cách mạng của Đảng Cộng Sản Việt Nam
+5. Pháp luật đại cương
+6. Giáo dục quốc phòng an ninh 1
+7. Giáo dục quốc phòng an ninh 2
+8. Giáo dục quốc phòng an ninh 3
+9. Giáo dục thể chất 1
+10. Giáo dục thể chất 2
+11. Giáo dục thể chất 3
+
+II. Nhóm môn học Khoa học tự nhiên và Ngoại ngữ
+
+12. Đại số tuyến tính  (2)(5)(6)  (7)(14)  (19)(20)(21)
+13. Xác suất thống kê
+14. Toán cao cấp A1
+15. Anh văn A1
+16. Anh văn A2
+17. Anh văn B1
+18. Anh văn B2
+19. Kỹ năng ứng dụng Công nghệ thông tin
+
+III. Nhóm môn học cơ sở và chuyên ngành
+
+III.1. Phần các môn học bắt buộc
+
+20. Nhập môn lập trình  (2)(3)(4)(5)(6)  (7)(8)(9)(10)(11)(12)(13)(14)(15)  (16)(17)(18)(19)(20)(21)
+21. Thực hành Nhập môn lập trình
+22. Toán rời rạc
+23. Cấu trúc dữ liệu & Giải thuật
+24. Thực hành Cấu trúc dữ liệu & Giải thuật
+25. Cơ sở dữ liệu
+26. Thực hành Cơ sở dữ liệu
+27. Mạng máy tính
+28. Thực hành Mạng máy tính
+29. Hệ điều hành
+30. Lập trình Hướng đối tượng
+31. Thực hành Lập trình hướng đối tượng
+32. Lập trình Web
+33. Trí tuệ nhân tạo
+34. Công nghệ Java
+35. Công nghệ .NET
+36. Khai thác dữ liệu
+37. Hệ quản trị cơ sở dữ liệu
+38. Ảo hóa và điện toán đám mây
+39. Xử lý và tính toán song song
+40. Phân tích thiết kế hệ thống thông tin
+41. Thực hành phân tích thiết kế hệ thống thông tin
+42. Công nghệ Web
+43. Công nghệ phần mềm
+44. Lập trình di động
+45. Phát triển phần mềm và ứng dụng thông minh
+46. Cơ sở dữ liệu nâng cao
+47. Thiết kế cơ sở dữ liệu
+48. Kho dữ liệu và OLAP
+49. Dự án thương mại điện tử
+50. Thực hành dự án thương mại điện tử
+51. Marketing online
+52. Lập trình mạng
+53. Thực hành lập trình mạng
+54. Mạng máy tính nâng cao
+55. Thực hành mạng máy tính nâng cao
+56. Hệ điều hành Linux
+57. Thực hành hệ điều hành Linux
+58. Quản lý dự án Công nghệ thông tin
+59. Máy học
+60. Thực hành máy học
+61. Chuyên đề seminar
+62. Mạng neural nhân tạo
+63. Thực hành mạng neural nhân tạo
+64. Dữ liệu lớn
+65. Thực hành dữ liệu lớn
+66. Đồ án chuyên ngành
+67. Đồ án tốt nghiệp
+68. Khóa luận tốt nghiệp
+
+III.2. Phần các môn học tự chọn
+
+69. Kiến trúc máy tính
+70. Lý thuyết thông tin
+71. Kỹ thuật lập trình
+72. Thực hành kỹ thuật lập trình
+73. Quản trị mạng
+74. Thực hành quản trị mạng
+75. Đồ họa máy tính
+76. Thực hành đồ họa máy tính
+77. Xử lý ảnh
+78. Thực hành xử lý ảnh
+79. Phân tích dữ liệu và dự báo
+80. Thực hành phân tích dữ liệu và dự báo
+81. Hệ quản trị cơ sở dữ liệu Oracle
+82. Thực hành hệ quản trị cơ sở dữ liệu Oracle
+83. Hệ thống thông tin địa lý
+84. Thực hành hệ thống thông tin địa lý
+85. Web ngữ nghĩa
+86. Thực hành Web ngữ nghĩa
+87. Search engine
+88. Thực hành search engine
+89. Kiểm định chất lượng phần mềm
+90. Thực hành kiểm định chất lượng phần mềm
+91. Hệ quản trị cơ sở dữ liệu nâng cao
+92. Thực hành Hệ quản trị cơ sở dữ liệu nâng cao
+93. Cơ sở dữ liệu NoSQL
+94. Thực hành cơ sở dữ liệu NoSQL
+95. Hệ thống thông tin kế toán
+96. Phát triển Web trên mobile
+97. Python
+98. PHP
+99. Angular
+100. Ruby
+101. Laravel
+102. Magento
+103. An toàn bảo mật mạng
+104. Thực hành an toàn bảo mật mạng
+105. Internet of Things
+106. Thực hành internet of things
+107. Thiết kế hệ thống mạng
+108. Thực hành Thiết kế hệ thống mạng
+109. Đánh giá hiệu năng mạng
+110. Thực hành đánh giá hiệu năng mạng
+111. Lập trình ứng dụng mạng
+112. Thực hành lập trình ứng dụng mạng
+113. Chuyên đề Unix/Linux
+114. Thực hành chuyên đề Unix/Linux
+
+
+1.3. Thời gian đào tạo: 3.5 năm
+
+
+1.4. Khối lượng kiến thức toàn khóa:
+
+Tổng: 120 tín chỉ (Không tính giáo dục thể chất, giáo dục quốc phòng - an ninh).
+
+Khối kiến thức cơ bản (đại cương): 33 tín chỉ – chiếm 27,5%
+Khối kiến thức cơ sở ngành: 32 tín chỉ – chiếm 26,7%
+Khối kiến thức ngành: 43 tín chỉ – chiếm 35,8%
+Thực tập tốt nghiệp: 4 tín chỉ – chiếm 3,3%
+Khóa luận tốt nghiệp (hoặc ĐACN và ĐATN): 8 tín chỉ – chiếm 6,7%
+
+
+1.5. Đối tượng tuyển sinh
+
+Tốt nghiệp Trung học phổ thông hoặc tương đương.
+
+
+1.6. Quy trình đào tạo, điều kiện tốt nghiệp
+
+Theo Quy chế Đào tạo đại học theo hệ thống tín chỉ (Ban hành kèm theo Quyết định số 1603 ngày 23 tháng 08 năm 2017 của Hiệu trưởng trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh).
+
+1.6.1. Quy trình đào tạo
+
+Căn cứ vào Quy chế đào tạo Đại học theo hệ thống tín chỉ (Ban hành kèm theo Quyết định số 1603 ngày 23 tháng 08 năm 2017 của Hiệu trưởng trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh).
+
+Quá trình đào tạo được chia làm 7 HK:
+
+Khối kiến thức giáo dục cơ bản: HK 1, 2, 3
+Khối kiến thức cơ sở của khối ngành: HK 1, 2, 3
+Khối kiến thức ngành: HK 4, 5, 6
+Học kỳ doanh nghiệp: HK 7
+Thực tập cuối khóa, khóa luận tốt nghiệp hoặc làm các đồ án chuyên ngành và đồ án tốt nghiệp: HK7.
+
+1.6.2. Điều kiện tốt nghiệp
+
+Đạt chuẩn trình độ ngoại ngữ: tiếng Anh tối thiểu TOEIC 450 và tương đương;
+
+Theo hệ thống tín chỉ (Ban hành kèm theo Quyết định số 1603 ngày 23 tháng 08 năm 2017 của Hiệu trưởng trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh).
+
+
+1.7. Thang điểm
+
+Theo hệ thống tín chỉ (Ban hành kèm theo Quyết định số 1603 ngày 23 tháng 08 năm 2017 của Hiệu trưởng trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh).
+
+
+1.8. Nội dung chương trình
+
+1.8.1. Khối kiến thức cơ bản (kiến thức giáo dục đại cương): 33 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH  KHÁC
+
+Môn bắt buộc: 30 tín chỉ
+
+1. Giáo dục quốc phòng an ninh 1  3  3  Không tính tích lũy tín chỉ
+2. Giáo dục quốc phòng an ninh 2  3  3
+3. Giáo dục quốc phòng an ninh 3  2  2
+4. Giáo dục thể chất 1  2  2
+5. Giáo dục thể chất 2  1  1
+6. Giáo dục thể chất 3  2  2
+7. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1  2  2
+8. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2  3  3
+9. Tư tưởng Hồ Chí Minh  2  2
+10. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+11. Pháp luật đại cương  2  2
+12. Anh văn A1  3  3
+13. Anh văn A2  3  3
+14. Anh văn B1  3  3
+15. Anh văn B2  3  3
+16. Kỹ năng ứng dụng Công nghệ thông tin  3  1  2
+17. Đại số tuyến tính  3  3
+
+Môn tự chọn: 03 tín chỉ
+(Sinh viên chọn ít nhất 1 học phần trong các học phần sau)
+
+18. Xác suất thống kê  3  3
+19. Toán cao cấp A1  3  3
+
+
+1.8.2. Kiến thức giáo dục chuyên nghiệp: 87 tín chỉ
+
+1.8.2.1. Khối kiến thức cơ sở của ngành: 32 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 30 tín chỉ
+
+20. Nhập môn lập trình  3  3
+21. Thực hành Nhập môn lập trình  2  2
+22. Toán rời rạc  3  3
+23. Cấu trúc dữ liệu & Giải thuật  2  2
+24. Thực hành Cấu trúc dữ liệu & Giải thuật  2  2
+25. Cơ sở dữ liệu  3  3
+26. Thực hành Cơ sở dữ liệu  1  1
+27. Mạng máy tính  3  3
+28. Thực hành Mạng máy tính  1  1
+29. Hệ điều hành  3  3
+30. Lập trình Hướng đối tượng  3  3
+31. Thực hành Lập trình hướng đối tượng  1  1
+32. Lập trình Web  3  1  2
+
+Môn tự chọn: 02 tín chỉ
+(Sinh viên chọn ít nhất 1 học phần trong các học phần sau)
+
+33. Kiến trúc máy tính  2  2
+34. Lý thuyết thông tin  2  2
+
+
+1.8.2.2. Kiến thức ngành: 24 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 21 tín chỉ
+
+35. Trí tuệ nhân tạo  3  3
+36. Công nghệ Java  3  1  2
+37. Công nghệ .NET  3  1  2
+38. Khai thác dữ liệu  3  3
+39. Hệ quản trị cơ sở dữ liệu  3  1  2
+40. Ảo hóa và điện toán đám mây  3  3
+41. Xử lý và tính toán song song  3  3
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+42. Kỹ thuật lập trình  2  2
+43. Thực hành kỹ thuật lập trình  1  1
+44. Quản trị mạng  2  2
+45. Thực hành quản trị mạng  1  1
+46. Đồ họa máy tính  2  2
+47. Thực hành đồ họa máy tính  1  1
+48. Xử lý ảnh  2  2
+49. Thực hành xử lý ảnh  1  1
+50. Phân tích dữ liệu và dự báo  2  2
+51. Thực hành phân tích dữ liệu và dự báo  1  1
+52. Hệ quản trị cơ sở dữ liệu Oracle  2  2
+53. Thực hành hệ quản trị cơ sở dữ liệu Oracle  1  1
+
+
+1.8.2.3. Kiến thức chuyên ngành Công nghệ phần mềm: 31 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 16 tín chỉ
+
+54. Phân tích thiết kế hệ thống thông tin  3  3
+55. Thực hành phân tích thiết kế hệ thống thông tin  1  1
+56. Công nghệ Web  3  1  2
+57. Công nghệ phần mềm  3  3
+58. Lập trình di động  3  1  2
+59. Phát triển phần mềm và ứng dụng thông minh  3  1  2
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+60. Hệ thống thông tin địa lý  2  2
+61. Thực hành hệ thống thông tin địa lý  1  1
+62. Web ngữ nghĩa  2  2
+63. Thực hành Web ngữ nghĩa  1  1
+64. Search engine  2  2
+65. Thực hành search engine  1  1
+66. Kiểm định chất lượng phần mềm  2  2
+67. Thực hành kiểm định chất lượng phần mềm  1  1
+
+Thực tập nghề nghiệp: 4 tín chỉ
+
+Khóa luận tốt nghiệp: 8 tín chỉ
+
+68. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và Đồ án tốt nghiệp (đối với trường hợp sinh viên không làm khóa luận): 8 tín chỉ
+
+69. Đồ án chuyên ngành CNPM  4
+70. Đồ án tốt nghiệp  4
+
+
+1.8.2.4. Kiến thức chuyên ngành Hệ thống Thông tin: 31 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 16 tín chỉ
+
+71. Cơ sở dữ liệu nâng cao  2  2
+72. Thiết kế cơ sở dữ liệu  2  2
+54. Phân tích thiết kế hệ thống thông tin  3  3
+55. Thực hành phân tích thiết kế hệ thống thông tin  1  1
+56. Công nghệ Web  3  1  2
+57. Công nghệ phần mềm  3  3
+73. Kho dữ liệu và OLAP  2  2
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+74. Hệ quản trị cơ sở dữ liệu nâng cao  2  2
+75. Thực hành Hệ quản trị cơ sở dữ liệu nâng cao  1  1
+76. Cơ sở dữ liệu NoSQL  2  2
+77. Thực hành cơ sở dữ liệu NoSQL  1  1
+78. Hệ thống thông tin kế toán  3  3
+79. Phát triển Web trên mobile  3  1  2
+
+Thực tập nghề nghiệp: 4 tín chỉ
+
+Khóa luận tốt nghiệp: 8 tín chỉ
+
+66. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và Đồ án tốt nghiệp (đối với trường hợp sinh viên không làm khóa luận): 8 tín chỉ
+
+80. Đồ án chuyên ngành HTTT  4
+70. Đồ án tốt nghiệp  4
+
+
+1.8.2.5. Kiến thức chuyên ngành Thương mại điện tử: 31 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 16 tín chỉ
+
+81. Dự án thương mại điện tử  2  2
+82. Thực hành dự án thương mại điện tử  2  2
+83. Marketing online  3  1  2
+62. Web ngữ nghĩa  2  2
+63. Thực hành web ngữ nghĩa  1  1
+56. Công nghệ Web  3  1  2
+57. Công nghệ phần mềm  3  3
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 1 học phần trong các học phần sau
+
+84. Python  3  1  2
+85. PHP  3  1  2
+86. Angular  3  1  2
+87. Ruby  3  1  2
+88. Laravel  3  1  2
+89. Magento  3  1  2
+79. Phát triển Web trên mobile  3  1  2
+
+Thực tập nghề nghiệp: 4 tín chỉ
+
+Khóa luận tốt nghiệp: 8 tín chỉ
+
+66. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và Đồ án tốt nghiệp (đối với trường hợp sinh viên không làm khóa luận): 8 tín chỉ
+
+90. Đồ án chuyên ngành TMĐT  4
+70. Đồ án tốt nghiệp  4
+
+
+1.8.2.6. Kiến thức chuyên ngành Mạng máy tính: 31 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 15 tín chỉ
+
+91. Lập trình mạng  3  3
+92. Thực hành lập trình mạng  1  1
+93. Mạng máy tính nâng cao  3  3
+94. Thực hành mạng máy tính nâng cao  1  1
+95. Hệ điều hành Linux  2  2
+96. Thực hành hệ điều hành Linux  2  2
+97. Quản lý dự án Công nghệ thông tin  3  3
+
+Môn tự chọn: 4 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 4 tín chỉ và các học phần lý thuyết 3 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+98. An toàn bảo mật mạng  3  3
+99. Thực hành an toàn bảo mật mạng  1  1
+100. Internet of Things  3  3
+101. Thực hành internet of things  1  1
+102. Thiết kế hệ thống mạng  3  3
+103. Thực hành Thiết kế hệ thống mạng  1  1
+104. Đánh giá hiệu năng mạng  3  3
+105. Thực hành đánh giá hiệu năng mạng  1  1
+106. Lập trình ứng dụng mạng  3  3
+107. Thực hành lập trình ứng dụng mạng  1  1
+108. Chuyên đề Unix/Linux  3  3
+109. Thực hành chuyên đề Unix/Linux  1  1
+
+Thực tập nghề nghiệp: 4 tín chỉ
+
+Khóa luận tốt nghiệp hoặc học bổ sung: 8 tín chỉ
+
+66. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và Đồ án tốt nghiệp (đối với trường hợp sinh viên không làm khóa luận): 8 tín chỉ
+
+110. Đồ án chuyên ngành MMT  4
+70. Đồ án tốt nghiệp  4
+
+
+1.8.2.7. Kiến thức chuyên ngành Khoa học phân tích dữ liệu: 31 tín chỉ
+
+STT  MÃ MH  MÔN HỌC  TÍN CHỈ
+                      TỔNG CỘNG  LÝ THUYẾT  THỰC HÀNH/BÀI TẬP  KHÁC
+
+Môn bắt buộc: 16 tín chỉ
+
+111. Máy học  3  3
+112. Thực hành máy học  2  2
+113. Chuyên đề seminar  3  3
+114. Mạng neural nhân tạo  3  3
+115. Thực hành Mạng neural nhân tạo  1  1
+116. Dữ liệu lớn  3  3
+117. Thực hành dữ liệu lớn  1  1
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 1 học phần trong các học phần sau
+
+56. Công nghệ web  3  1  8
+79. Phát triển Web trên mobile  3  1  8
+62. Web ngữ nghĩa  2  2
+63. Thực hành Web ngữ nghĩa  1  2
+64. Search engine  2  2
+65. Thực hành search engine  1  2
+66. Lập trình di động  3  1  2
+
+Thực tập nghề nghiệp: 4 tín chỉ
+
+Khóa luận tốt nghiệp: 8 tín chỉ
+
+66. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và Đồ án tốt nghiệp (đối với trường hợp sinh viên không làm khóa luận): 8 tín chỉ
+
+118. Đồ án chuyên ngành KHPTDL  4
+70. Đồ án tốt nghiệp  4
+
+
+1.9. Kế hoạch giảng dạy: theo từng học kỳ
+
+1.9.1. Học kỳ 1 – 21 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc: 18 tín chỉ
+
+1. Anh văn A1  3  3
+2. Kỹ năng ứng dụng Công nghệ thông tin  3  1  2
+3. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 1  2  2
+4. Giáo dục quốc phòng an ninh 2  3  3
+5. Giáo dục thể chất 1  2  2
+6. Nhập môn lập trình  3  3
+7. Thực hành Nhập môn lập trình  2  2
+
+Môn tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 1 học phần trong các học phần sau
+
+8. Xác suất thống kê  3  3
+9. Toán cao cấp A1  3  3
+
+
+1.9.2. Học kỳ 2 – 21 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc: 19 tín chỉ
+
+10. Những nguyên lý cơ bản của chủ nghĩa Mác – Lênin 2  3  3
+11. Anh văn A2  3  3
+12. Pháp luật đại cương  2  2
+13. Toán rời rạc  3  3
+14. Lập trình Hướng đối tượng  3  3
+15. Thực hành Lập trình Hướng đối tượng  1  1
+16. Giáo dục thể chất 2  1  1
+17. Giáo dục quốc phòng an ninh 1  3  3
+
+Môn tự chọn: 2 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần
+
+18. Kiến trúc máy tính  2  2
+19. Lý thuyết thông tin  2  2
+
+
+1.9.3. Học kỳ 3 – 23 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc: 23 tín chỉ
+
+20. Tư tưởng Hồ Chí Minh  2  2
+21. Anh văn B1  3  3
+22. Hệ điều hành  3  3
+23. Cơ sở dữ liệu  3  3
+24. Thực hành Cơ sở dữ liệu  1  1
+25. Cấu trúc dữ liệu & Giải thuật  2  2
+26. Thực hành Cấu trúc dữ liệu & Giải thuật  2  2
+27. Giáo dục thể chất 3  2  2
+28. Giáo dục quốc phòng an ninh 3  2  2
+29. Đại số tuyến tính  3  3
+
+
+1.9.4. Học kỳ 4 – 19 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc: 19 tín chỉ
+
+30. Trí tuệ nhân tạo  3  3
+31. Anh văn B2  3  3
+32. Công nghệ Java  3  1  2
+33. Lập trình Web  3  1  2
+34. Hệ quản trị cơ sở dữ liệu  3  1  2
+35. Mạng máy tính  3  3
+36. Thực hành Mạng máy tính  1  1
+
+
+1.9.5. Học kỳ 5 – 18 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc: 15 tín chỉ
+
+Chuyên ngành Công nghệ phần mềm, Hệ thống thông tin, Thương mại điện tử  15
+
+37. Công nghệ .NET  3  1  2
+38. Khai thác dữ liệu  3  3
+39. Ảo hóa và điện toán đám mây  3  3
+40. Xử lý và tính toán song song  3  3
+41. Công nghệ Web  3  1  2
+
+Chuyên ngành Khoa học phân tích dữ liệu  15
+
+42. Công nghệ .NET  3  1  2
+43. Khai thác dữ liệu  3  3
+44. Ảo hóa và điện toán đám mây  3  3
+45. Xử lý và tính toán song song  3  3
+46. Chuyên đề seminar  3  3
+
+Chuyên ngành Mạng máy tính  15
+
+47. Công nghệ .NET  3  1  2
+48. Khai thác dữ liệu  3  3
+49. Ảo hóa và điện toán đám mây  3  3
+50. Xử lý và tính toán song song  3  3
+51. Quản lý dự án Công nghệ thông tin  3  3
+
+Môn học tự chọn: 3 tín chỉ
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+52. Kỹ thuật lập trình  2  2
+53. Thực hành kỹ thuật lập trình  1  1
+54. Quản trị mạng  2  2
+55. Thực hành quản trị mạng  1  1
+56. Đồ họa máy tính  2  2
+57. Thực hành đồ họa máy tính  1  1
+58. Xử lý ảnh  2  2
+59. Thực hành xử lý ảnh  1  1
+60. Phân tích dữ liệu và dự báo  2  2
+61. Thực hành phân tích dữ liệu và dự báo  1  1
+62. Hệ quản trị cơ sở dữ liệu Oracle  2  2
+63. Thực hành hệ quản trị cơ sở dữ liệu Oracle  1  1
+
+
+1.9.6. Học kỳ 6 – 19 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Sinh viên chọn một trong các chuyên ngành sau:
+
+1. Chuyên ngành Công nghệ phần mềm  19
+
+Môn học bắt buộc  16
+
+64. Phân tích thiết kế hệ thống thông tin  3  3
+65. Thực hành phân tích thiết kế hệ thống thông tin  1  1
+57. Công nghệ phần mềm  3  3
+66. Lập trình di động  3  1  2
+67. Phát triển phần mềm và ứng dụng thông minh  3  1  2
+68. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+
+Môn học tự chọn  3
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+69. Hệ thống thông tin địa lý  2  2
+70. Thực hành hệ thống thông tin địa lý  1  1
+71. Web ngữ nghĩa  2  2
+72. Thực hành Web ngữ nghĩa  1  1
+73. Search engine  2  2
+74. Thực hành search engine  1  1
+75. Kiểm định chất lượng phần mềm  2  2
+76. Thực hành Kiểm định chất lượng phần mềm  1  1
+
+2. Chuyên ngành Hệ thống Thông tin  19
+
+Môn học bắt buộc  16
+
+77. Cơ sở dữ liệu nâng cao  2  2
+78. Thiết kế cơ sở dữ liệu  2  2
+79. Phân tích thiết kế hệ thống thông tin  3  3
+80. Thực hành phân tích thiết kế hệ thống thông tin  1  1
+57. Công nghệ phần mềm  3  3
+81. Kho dữ liệu và OLAP  2  2
+82. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+
+Môn học tự chọn  3
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+83. Hệ quản trị cơ sở dữ liệu nâng cao  2  2
+84. Thực hành Hệ quản trị cơ sở dữ liệu nâng cao  1  1
+85. Cơ sở dữ liệu NoSQL  2  2
+86. Thực hành cơ sở dữ liệu NoSQL  1  1
+87. Hệ thống thông tin kế toán  3  3
+79. Phát triển Web trên mobile  3  1  2
+
+3. Chuyên ngành Thương mại điện tử  19
+
+Môn học bắt buộc  16
+
+88. Dự án thương mại điện tử  2  2
+89. Thực hành dự án thương mại điện tử  2  2
+90. Marketing online  3  1  2
+62. Web ngữ nghĩa  2  2
+63. Thực hành web ngữ nghĩa  1  1
+57. Công nghệ phần mềm  3  3
+91. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+
+Môn học tự chọn  3
+
+Sinh viên chọn ít nhất 1 học phần trong các học phần sau
+
+92. Python  3  1  2
+93. PHP  3  1  2
+94. Angular  3  1  2
+95. Ruby  3  1  2
+96. Laravel  3  1  2
+97. Magento  3  1  2
+79. Phát triển Web trên mobile  3  1  2
+
+4. Chuyên ngành Mạng máy tính  19
+
+Môn học bắt buộc  15
+
+98. Lập trình mạng  3  3
+99. Thực hành lập trình mạng  1  1
+100. Mạng máy tính nâng cao  3  3
+101. Thực hành mạng máy tính nâng cao  1  1
+102. Hệ điều hành Linux  2  2
+103. Thực hành hệ điều hành Linux  2  2
+104. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+
+Môn học tự chọn  4
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+105. An toàn bảo mật mạng  3  3
+106. Thực hành an toàn bảo mật mạng  1  1
+107. Internet of Things  3  3
+108. Thực hành internet of things  1  1
+109. Thiết kế hệ thống mạng  3  3
+110. Thực hành Thiết kế hệ thống mạng  1  1
+111. Đánh giá hiệu năng mạng  3  3
+112. Thực hành đánh giá hiệu năng mạng  1  1
+113. Lập trình ứng dụng mạng  3  3
+114. Thực hành lập trình ứng dụng mạng  1  1
+115. Chuyên đề Unix/Linux  3  3
+116. Thực hành chuyên đề Unix/Linux  1  1
+
+5. Chuyên ngành Khoa học phân tích dữ liệu  19
+
+Môn học bắt buộc  16
+
+117. Máy học  3  3
+118. Thực hành máy học  2  2
+119. Mạng neural nhân tạo  3
+120. Thực hành Mạng neural nhân tạo  1  1
+121. Dữ liệu lớn  3  3
+122. Thực hành dữ liệu lớn  1  1
+123. Đường lối cách mạng của Đảng Cộng Sản Việt Nam  3  3
+
+Môn học tự chọn  3
+
+Sinh viên chọn ít nhất 2 học phần trong các học phần sau (lưu ý phải chọn đủ 3 tín chỉ và các học phần lý thuyết 2 tín chỉ phải đi kèm với học phần thực hành 1 tín chỉ tương ứng)
+
+56. Công nghệ Web  3  1  2
+79. Phát triển Web trên mobile  3  1  2
+62. Web ngữ nghĩa  2  2
+63. Thực hành Web ngữ nghĩa  1  1
+64. Search engine  2  2
+65. Thực hành search engine  1  1
+66. Lập trình di động  3  1  2
+
+
+1.9.7. Học kỳ 7 – 12 tín chỉ
+
+STT  Mã MH  MÔN HỌC  Tín chỉ                                           Điều kiện tiên quyết
+                      Tổng cộng  Lý thuyết  Thực hành  Tích lũy  Đã học và thi
+
+Môn học bắt buộc  4
+
+1. Thực tập nghề nghiệp  4
+
+Khóa luận tốt nghiệp hoặc Đồ án chuyên ngành và đồ án tốt nghiệp  8
+
+2. Khóa luận tốt nghiệp  8
+
+Đồ án chuyên ngành và đồ án tốt nghiệp
+Sinh viên chọn một trong các chuyên ngành sau:  8
+
+1. Chuyên ngành Công nghệ phần mềm  8
+
+3. Đồ chuyên ngành CNPM  4
+4. Đồ án tốt nghiệp  4
+
+2. Chuyên ngành Hệ thống thông tin  8
+
+5. Đồ chuyên ngành HTTT  4
+122. Đồ án tốt nghiệp  4
+
+3. Chuyên ngành Thương mại điện tử  8
+
+6. Đồ chuyên ngành TMĐT  4
+122. Đồ án tốt nghiệp  4
+
+4. Chuyên ngành Mạng máy tính  8
+
+7. Đồ chuyên ngành MMT  4
+122. Đồ án tốt nghiệp  4
+
+5. Chuyên ngành Khoa học phân tích dữ liệu  8
+
+8. Đồ chuyên ngành KHPTDL  4
+122. Đồ án tốt nghiệp  4
+
+
+HẾT

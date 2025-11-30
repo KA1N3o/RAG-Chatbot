@@ -1,0 +1,235 @@
+QUY CHẾ
+Đào tạo đại học theo hệ thống tín chỉ
+(Ban hành theo Quyết định số 3344/QĐ-ĐCT ngày 05 tháng 9 năm 2025 của Hiệu trưởng Trường Đại học Công Thương Thành phố Hồ Chí Minh)
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+Quy chế này quy định chung về tổ chức và quản lý đào tạo trình độ đại học theo hệ thống tín chỉ, bao gồm: chương trình đào tạo và thời gian học tập; hình thức và phương thức tổ chức đào tạo; lập kế hoạch, tiến độ và tổ chức giảng dạy; đánh giá kết quả học tập và cấp bằng tốt nghiệp; những quy định khác đối với sinh viên.
+Quy chế này áp dụng đối với các đơn vị trực thuộc Trường, các tổ chức, cá nhân liên quan tham gia vào quá trình đào tạo bậc đại học theo hình thức chính quy và hình thức vừa làm vừa học tại Trường Đại học Công Thương Thành phố Hồ Chí Minh (sau đây gọi tắt là Trường).
+Điều 2. Giải thích từ ngữ
+Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:
+Hiệu trưởng là người chịu trách nhiệm quản lý, điều hành các hoạt động của Trường theo quy định của pháp luật, quy chế tổ chức và hoạt động của Trường.
+Người học là từ gọi chung đối với sinh viên đại học đang theo học tại Trường.
+Chương trình đào tạo là một hệ thống các hoạt động đào tạo được thiết kế và tổ chức thực hiện nhằm đạt được các mục tiêu đào tạo, hướng tới việc cấp văn bằng tốt nghiệp đào tạo đại học cho người học. Chương trình đào tạo bao gồm mục tiêu, khối lượng kiến thức, cấu trúc, nội dung, phương pháp và hình thức đánh giá đối với môn học, ngành học, trình độ đào tạo, chuẩn đầu ra phù hợp với Khung trình độ quốc gia Việt Nam.
+Khóa học là thời gian thiết kế để sinh viên hoàn thành một chương trình đào tạo cụ thể. Thời gian thiết kế và thời gian tối đa của một khóa học được quy định tại Bảng 1 Điều 18 của Quy chế này.
+Khóa – ngành là thuật ngữ dùng để chỉ nhóm tất cả người học cùng một khóa tuyển sinh, cùng nhập học và cùng học theo một chương trình đào tạo của một ngành cụ thể với cùng một hình thức đào tạo để nhận cùng một loại bằng cấp. Mỗi khóa – ngành có một mã số xác định theo Khoa/Viện/Trung tâm (sau đây gọi tắt là Khoa), ngành, hình thức học và năm/đợt nhập học.
+Khối lượng kiến thức tối thiểu là lượng kiến thức tối thiểu đối với một trình độ đào tạo là số lượng tín chỉ bắt buộc mà người học phải tích lũy được ở trình độ đào tạo đó trở lên mới đủ điều kiện xét tốt nghiệp.
+Chuẩn đầu ra là yêu cầu tối thiểu về kiến thức, kỹ năng, thái độ, trách nhiệm nghề nghiệp mà người học đạt được sau khi hoàn thành chương trình đào tạo, được cơ sở đào tạo cam kết với người học, xã hội và công bố công khai cùng với các điều kiện đảm bảo thực hiện. Chuẩn đầu ra của một chương trình đào tạo được tham chiếu theo Khung trình độ quốc gia Việt Nam, các quy định hiện hành của Bộ Giáo dục và Đào tạo và đảm bảo yếu tố hội nhập khu vực, thế giới.
+Năng lực người học là năng lực người học đạt được sau khi tốt nghiệp, là khả năng làm việc cá nhân và làm việc nhóm trên cơ sở tuân thủ các nguyên tắc an toàn nghề nghiệp, đạo đức nghề nghiệp và tâm huyết với nghề; bao gồm kiến thức, kỹ năng, tính chủ động sáng tạo trong giải quyết các vấn đề liên quan đến ngành/chuyên ngành tương ứng đối với mỗi trình độ đào tạo.
+Điều 3. Chuẩn đầu ra học phần, chuẩn đầu ra chương trình đào tạo
+Chuẩn đầu ra học phần (CLO) là yêu cầu cần đạt về kiến thức, kỹ năng, năng lực tự chủ và chịu trách nhiệm mà người học đạt được sau khi hoàn thành xong học phần. Người học đạt chuẩn đầu ra học phần khi điểm đánh giá của từng chuẩn đầu ra của học phần lớn hơn hoặc bằng 4,0 (theo thang điểm 10).
+Chuẩn đầu ra chương trình đào tạo (PLO) là yêu cầu cần đạt về phẩm chất và năng lực của người học sau khi hoàn thành một chương trình đào tạo, gồm các yêu cầu về kiến thức, kỹ năng, năng lực tự chủ và chịu trách nhiệm của người học khi tốt nghiệp. Người học đạt chuẩn đầu ra của chương trình đào tạo khi điểm đánh giá của từng chuẩn đầu ra của chương trình đào tạo đạt từ 4,0 trở lên (theo thang điểm 10). Chuẩn đầu ra của chương trình đào tạo được đánh giá thông qua chuẩn đầu ra của các học phần cốt lõi (*).
+Phương pháp đánh giá chuẩn đầu ra học phần và chuẩn đầu ra chương trình đào tạo thực hiện theo hướng dẫn hiện hành.
+Điều 4. Tính chất học phần, tín chỉ
+
+Tính chất học phần
+
+a) Lý thuyết: người học học tập bài giảng trực tiếp của giảng viên tại lớp hoặc qua các lớp học trực tuyến.
+b) Thực hành: người học học tập hình thức thực hành, làm thí nghiệm, thực tập, thực tế, thảo luận, làm bài tập lớn... bằng nhiều hình thức khác nhau dưới sự hướng dẫn của giảng viên.
+c) Tự học: người học tự học tập (đọc tài liệu, làm bài tập cá nhân/bài tập nhóm, viết tiểu luận, làm đồ án, khóa luận tốt nghiệp...) và nghiên cứu theo kế hoạch và nội dung do giảng viên yêu cầu và được kiểm tra đánh giá.
+
+Tín chỉ
+
+Một tín chỉ được tính tương đương 50 giờ học tập định mức của người học, bao gồm cả thời gian dự giờ giảng, giờ học có hướng dẫn, tự học, nghiên cứu, trải nghiệm và dự kiểm tra, đánh giá. Đối với hoạt động dạy học trên lớp, một tín chỉ yêu cầu thực hiện tối thiểu 15 giờ giảng hoặc 30 giờ thực hành, thí nghiệm, thảo luận.
+Điều 5. Tín chỉ học phí và học phí
+
+Tín chỉ học phí
+
+Tín chỉ học phí là một đơn vị dùng để lượng hóa chi phí của các hoạt động giảng dạy, học tập tính cho từng học phần. Tùy đặc điểm của từng học phần, nhà Trường sẽ quy định số tín chỉ học phí tương ứng.
+Mức học phí của 01 tín chỉ học phí do Hiệu trưởng quy định cho từng bậc đào tạo – hình thức đào tạo của khóa – ngành tương ứng, được công bố vào đầu khóa – ngành.
+Đối với một số chương trình đặc biệt ngoài chương trình đào tạo, Hiệu trưởng quyết định việc “thu học phí toàn khóa” với số tiền (hoặc số tín chỉ học phí) cố định cho mỗi học kỳ mà không phụ thuộc vào số học phần người học đăng ký trong học kỳ đó, dạng học phí này chỉ dành cho học kỳ chính khóa.
+
+Học phí
+
+a) Học phí tính theo mỗi học kỳ mà người học theo học tại Trường tính riêng và nộp riêng cho học kỳ chính khóa (bắt buộc) theo thông báo của Trường và nộp riêng cho các phần học thêm (học bổ sung, nâng cao, dự thính, học kỳ phụ) theo các thông báo mở lớp và hướng dẫn của Phòng Đào tạo.
+b) Học phí học kỳ được xác định căn cứ vào số học phần người học đăng ký trong thời khóa biểu học kỳ, được tính như sau:
+Học phí học kỳ = Σ TCHPi * MHPi
+n: số học phần đăng ký trong học kỳ đó của người học.
+TCHPi: số tín chỉ học phí của học phần thứ i trong học kỳ đó.
+MHPi: mức học phí một tín chỉ của học phần thứ i (tăng theo tỷ lệ hàng năm).
+c) Học phí của các học phần người học đã đăng ký được thể hiện trên cổng thông tin sinh viên (mục Công nợ sinh viên) của từng người học. Người học có trách nhiệm đóng học phí đầy đủ và đúng thời hạn quy định của Trường, tuân thủ các thời hạn quy định cho mỗi học kỳ.
+d) Người học thuộc diện miễn hay giảm học phí theo các chính sách chung của Nhà nước phải làm hồ sơ xin miễn, giảm theo thời gian quy định gửi Phòng Công tác sinh viên xem xét và trình Hiệu trưởng phê duyệt. Người học thuộc diện con thương binh, liệt sỹ, gia đình có công với cách mạng và bộ đội/công an xuất ngũ chỉ cần làm hồ sơ 01 lần vào đầu khóa học và nộp sửa đổi, bổ sung (nếu có). Người học thuộc diện gia đình khó khăn, khu vực vùng cao/hải đảo… việc xét miễn, giảm được xét theo học kỳ.
+e) Trường hợp có khó khăn đột xuất, không có khả năng đóng học phí cho một học kỳ chính, người học phải làm hồ sơ xin gia hạn đóng học phí tại Phòng Công tác sinh viên trước khi hết hạn đóng học phí học kỳ. Trường hợp được xét, có quyết định hoàn đóng học phí của Hiệu trưởng, người học sẽ phải đóng phần học phí còn thiếu theo cam kết. Không giải quyết cho gia hạn đóng học phí trong 02 học kỳ chính liên tiếp.
+f) Không gia hạn hay miễn – giảm học phí đối với tất cả các dạng học kỳ không bắt buộc (học kỳ dự thính – học lại các dạng tổ chức học ngoài giờ, trong hè).
+Điều 6. Học phần
+
+Học phần
+
+Học phần là khối lượng kiến thức tương đối trọn vẹn, thuận tiện cho người học tích lũy trong quá trình học tập. Nội dung của học phần được bố trí giảng dạy trọn vẹn và phân bổ trong một học kỳ. Kiến thức trong mỗi học phần phải gắn với một mức độ năng lực theo thiết kế chương trình đào tạo và được kết cấu riêng như một môn phần của học phần hoặc được kết cấu dưới dạng tổ hợp từ nhiều học phần. Từng học phần phải được ký hiệu bằng một mã số riêng do Trường quy định.
+Học phần cốt lõi là học phần có đóng góp rõ nét trong việc đạt được kiến thức, kỹ năng, năng lực nghề nghiệp cho người học và được thực hiện trên ma trận học phần. Các học phần cốt lõi được ghi chú dấu (*) để phân biệt với các học phần khác.
+
+Khối lượng học phần được quy định như sau:
+
+Học phần lý thuyết có khối lượng tối thiểu là 02 tín chỉ, tối đa là 05 tín chỉ;
+Các học phần thực hành, thí nghiệm, thực tập, khóa luận tốt nghiệp, chuyên đề, seminar… tối thiểu là 01 tín chỉ, tối đa là 14 tín chỉ. Riêng đối với chương trình đào tạo chuyên sâu đặc thù trình độ bậc 7, yêu cầu khối lượng thực tập tối thiểu 08 tín chỉ.
+
+Tùy theo yêu cầu về mặt kiến thức, mỗi học phần có thể có một hay nhiều học phần tiên quyết, một hay nhiều học phần trước, một hay nhiều học phần song hành.
+Các loại học phần
+
+a) Học phần cốt lõi
+Học phần cốt lõi là học phần có đóng góp rõ nét trong việc đạt được kiến thức, kỹ năng, năng lực nghề nghiệp cho người học và được thực hiện trên ma trận học phần. Các học phần cốt lõi được đánh dấu (*) để phân biệt với các học phần khác trong chương trình đào tạo. Mỗi chuẩn đầu ra của chương trình đào tạo phải có ít nhất 2 học phần cốt lõi tham gia đánh giá. Danh sách các học phần cốt lõi tương ứng với từng khóa tuyển sinh, từng ngành đào tạo phải được công bố công khai cho người học biết.
+b) Học phần bắt buộc
+Học phần bắt buộc là học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình đào tạo và bắt buộc người học phải tích lũy đạt yêu cầu để được xét tốt nghiệp.
+c) Học phần tự chọn
+Học phần tự chọn là học phần chứa đựng những nội dung kiến thức cần thiết, nhưng người học được tự chọn theo hướng dẫn của Trường nhằm đa dạng hóa hướng chuyên môn hoặc được tự chọn tùy ý để tích lũy đủ số học phần quy định cho mỗi chương trình.
+Học phần tự chọn được xếp theo từng nhóm với các quy định riêng liên quan.
+Để xét tốt nghiệp, người học phải hoàn tất, đạt yêu cầu một số học phần nhất định trong từng nhóm nhằm tích lũy đủ số tín chỉ tối thiểu quy định cho nhóm học phần tự chọn tương ứng.
+Đối với một học phần tự chọn, nếu không đạt người học có quyền chọn đăng ký học lại chính học phần đó hoặc lựa chọn học các học phần tự chọn khác cùng nhóm nhằm đảm bảo tích lũy đủ số tín chỉ quy định cho nhóm tự chọn. Người học không nhất thiết phải học lại học phần tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của nhóm.
+d) Học phần mở rộng, nâng cao
+Học phần mở rộng, nâng cao là học phần chứa đựng nội dung kiến thức cần thiết, người học được tự do chọn theo sở thích nhằm mở rộng kiến thức và kỹ năng ngoài chương trình quy định của ngành được đào tạo (kết quả của học phần được ghi trong bảng điểm và không tính vào điểm tích lũy, điểm của các học phần mở rộng, nâng cao không tham gia xếp hạng học tập học kỳ/toàn khóa). Tuy nhiên, nếu người học tham gia học chương trình thứ hai thì những học phần mở rộng, nâng cao nằm trong chương trình thứ hai sẽ được bảo lưu và tính vào điểm tích lũy.
+e) Học phần tương đương
+Học phần A được gọi là tương đương với học phần B khi hai học phần này có nội dung tương đồng hoặc cùng có chuẩn đầu ra đáp ứng yêu cầu về chuẩn đầu ra của chương trình đào tạo, theo các tiêu chí do khoa quản lý hoặc bộ môn phụ trách xác định. Về số tín chỉ, học phần tương đương có thể khác nhau. Trường hợp học phần tương đương có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành.
+f) Học phần thay thế
+Học phần thay thế là học phần do bộ môn chỉ định cho người học thay thế trong trường hợp học phần cũ không còn tổ chức giảng dạy nữa; hoặc học phần vẫn còn trong chương trình đào tạo nhưng không được mở vào học kỳ cuối cùng đối với người học được phép học trả nợ (xác định cá biệt đối với từng người học); hoặc học phần ở bậc cao hơn có thể thay thế cho học phần danh riêng cho bậc học thấp hơn; hoặc khi người học học học phần có nội dung bao gồm nhiều học phần có thể chỉ định thay thế cho các học phần tương ứng.
+Học phần thay thế nhìn chung phải có thời lượng tương đương nhưng có thể có nội dung khác với học phần được thay thế. Trường hợp học phần thay thế có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành.
+g) Học phần tiên quyết
+Học phần A là tiên quyết của học phần B, điều kiện bắt buộc để đăng ký học học phần B là người học đã học hoàn tất học phần A và kết quả phải đạt yêu cầu.
+h) Học phần trước
+Học phần A là học phần trước đối với học phần B nếu như người học đã đăng ký học và có điểm thi học phần A (kể cả điểm thi chưa đạt), khi ấy người học được phép đăng ký học học phần B vào các học kỳ sau.
+i) Học phần song hành
+Học phần B là song hành đối với học phần A với điều kiện bắt buộc để học học phần B thì người học đã đăng ký học học phần A. Người học được phép đăng ký học học phần B vào cùng học kỳ với học phần A.
+Điều 7. Tổ chức lớp học
+
+Lớp học
+
+Những người học trùng tuyển cùng khóa tuyển sinh, học chung một chương trình đào tạo sẽ được tổ chức thành một hoặc nhiều lớp học.
+
+Lớp học phần
+
+Lớp học phần là lớp của người học cùng đăng ký một học phần, có cùng thời khóa biểu của học phần trong cùng một học kỳ. Mỗi lớp học phần được gắn một mã số riêng. Số lượng người học của một lớp học phần được giới hạn bởi sức chứa của phòng học hoặc được sắp xếp theo các yêu cầu riêng đặc thù của học phần. Số lượng người học tối thiểu cho mỗi lớp học phần quy định như sau:
+a) Đối với lớp học phần lý thuyết hoặc lớp học phần thực hành giảng dạy tại phòng lý thuyết: tối thiểu 30 người học.
+b) Đối với lớp học phần lý thuyết hoặc lớp học phần thực hành giảng dạy tại phòng máy tính: tối thiểu từ 25 người học.
+c) Đối với các lớp học thực hành, thí nghiệm: tối thiểu 20 người học.
+d) Đối với các lớp học phần Thực tập tốt nghiệp tại các đơn vị, doanh nghiệp: tùy theo tình hình cụ thể, người học có thể nộp đơn cho Khoa để đi thực tập tốt nghiệp theo yêu cầu cá nhân hoặc theo nhóm. Trường khoa xem xét quyết định và lập danh sách gửi cho Phòng Đào tạo để đưa người học vào lớp học phần;
+e) Nếu số lượng người học đăng ký thấp hơn số lượng tối thiểu quy định tại các mục a, b khoản 2 của Điều này thì lớp học sẽ bị hủy, người học phải đăng ký chuyển sang học những học phần khác có đủ điều kiện mở lớp;
+f) Trường hợp đặc biệt khi số lượng người học đăng ký thấp hơn mức quy định tối thiểu, nếu người học có yêu cầu mở lớp thì phải chịu đóng mức học phí trung bình sao cho tổng học phí của lớp học phần bằng mức đóng của một lớp tối thiểu;
+g) Các trường hợp khác do Hiệu trưởng quyết định.
+Điều 8. Học phần trực tuyến
+Việc tổ chức dạy học theo hình thức trực tuyến không được vượt quá 30% số tín chỉ của chương trình đào tạo.
+Học phần trực tuyến phải tuân thủ các quy định hiện hành trong quản lý, tổ chức đào tạo qua mạng.
+Mục đích của đào tạo học phần trực tuyến để tăng cường ứng dụng công nghệ thông tin và truyền thông trong dạy và học, thay thế việc dạy học lý thuyết trên lớp học truyền thống, phát triển năng lực tự học, tự nghiên cứu và đáp ứng nhu cầu học tập mọi lúc, mọi nơi của người học. Tiết giảng dạy trực tuyến của giảng viên được tính vào giờ lý thuyết của học phần tronghora chương trình đào tạo đã được phê duyệt.
+Hệ thống đào tạo trực tuyến là hệ thống hỗ trợ học tập, phục vụ cho công tác giảng dạy và học tập, bao gồm các thành phần chính như: cổng đào tạo trực tuyến; hệ thống quản lý học tập; học liệu điện tử; các phương thức tương tác trực tuyến; hệ thống kiểm tra; đánh giá người học; giảng viên; quản trị hệ thống.
+Giảng viên phải chịu trách nhiệm về nội dung giảng dạy trực tuyến thực hiện theo đúng quy định.
+
+Tổ chức quản lý và giảng dạy học phần trực tuyến
+
+Cấu trúc của học phần trực tuyến gồm có: đối tượng học, định hướng học phần; thời gian, bài giảng điện tử, giáo trình; bài giảng dạng video/audio; giảng dạy trực tuyến; bài tập trắc nghiệm khách quan; bài tập lớn/tiểu luận; phiếu khảo sát ý kiến phản hồi của người học về học phần...
+Học liệu điện tử phải có nội dung bám sát mục tiêu đào tạo, có tính sự phạm cao, dễ sử dụng, đáp ứng được nhu cầu từ học, tự nghiên cứu của người học.
+Bài tập trắc nghiệm khách quan, bài tập trắc nghiệm tự luận trực tuyến được người học thực hiện sau khi kết thúc bài học hoặc toàn bộ khóa học để tính điểm thường xuyên hay giữa kỳ.
+Nội dung học tập đưa lên mạng phải tuân thủ các quy định hiện hành về việc quản lý, cung cấp, sử dụng dịch vụ mạng và thông tin trên mạng.
+
+Kế hoạch giảng dạy học phần trực tuyến
+
+Đề cương chi tiết của học phần phải mô tả rõ nội dung; mục tiêu của học phần và yêu cầu về năng lực mà người học đạt được sau khi kết thúc học phần; học liệu; phương pháp và kế hoạch học tập, giảng dạy, đánh giá kết quả học tập của người học và công bố cho người học vào đầu học phần.
+Kế hoạch giảng dạy cần được cung cấp cho người học trước khi học (trước khi học phần bắt đầu), bao gồm: định hướng đầu học phần; tài liệu học tập; công cụ, phương thức tương tác; nhiệm vụ của người học; hình thức đánh giá; thời hạn hoàn thành các nội dung học tập.
+Giảng viên, người học tham gia lớp học theo thời khóa biểu.
+
+Giảng dạy và quản lý lớp học
+
+Triển khai kết hợp hình thức dạy học trực tuyến (giảng dạy trực tuyến trên hệ thống, cung cấp các bài giảng dạng video...) với các hình thức dạy học khác để đáp ứng chuẩn đầu ra của học phần. Các phương pháp giảng dạy, học tập không chỉ đảm bảo truyền tải nội dung kiến thức theo yêu cầu của học phần mà phải tạo cơ hội để người học rèn luyện các kỹ năng chuyên môn, kỹ năng mềm và các kỹ năng bổ trợ khác.
+Sử dụng các công cụ, phần mềm hỗ trợ giảng dạy trực tuyến có tính tương tác cao để tổ chức các hoạt động dạy và học tương ứng (ví dụ: Microsoft Sway, Nearpod, FlipGrid, Kahoot, Quizizz, Mentimeter...).
+Tạo nhiều kênh tương tác trực tuyến (ví dụ: diễn đàn trên hệ thống nội bộ; nhóm của lớp trên các kênh mạng xã hội như Facebook hoặc Zalo; email; tin nhắn...) để kết nối và hỗ trợ người học kịp thời.
+Thực hiện các hoạt động tuyên dương, khuyến khích, ghi nhận sự tham gia tích cực của người học để thúc đẩy tinh thần và ý thức tự giác học tập của người học.
+Sau từng buổi học, giảng viên tham khảo ý kiến người học về chất lượng buổi học và kỳ vọng của người học ở những buổi học tiếp tiếp theo. Căn cứ vào thông tin thu được từ bảng khảo sát hoặc các hội nghị, giảng viên có những điều chỉnh kịp thời để cải thiện phương pháp giảng dạy và tạo không khí học tập hiệu quả nhằm đạt được chuẩn đầu ra học phần như đã công bố.
+
+Đánh giá kết quả học tập học phần trực tuyến
+
+Đánh giá kết quả học tập học phần trực tuyến theo Điều 30 tại Quy chế này.
+
+Tổ chức thực hiện học phần trực tuyến
+
+Học phần đào tạo trực tuyến là các học phần trong chương trình đào tạo đã được phê duyệt của các ngành đã có quyết định cho phép mở ngành.
+Nội dung và thời lượng giảng dạy trực tuyến của các học phần do giảng viên xây dựng, đăng ký và phải được thể hiện trong đề cương học phần được Trưởng đơn vị quản lý học phần phê duyệt.
+Các đơn vị đào tạo chịu trách nhiệm lên kế hoạch tập hợp và quản lý nội dung giảng dạy theo đúng đối tượng mình phụ trách và giám sát quá trình giảng dạy.
+Điều 9. Hình thức đào tạo
+
+Đào tạo chính quy
+
+a) Các hoạt động giảng dạy được thực hiện tại Trường, riêng những hoạt động thực hành, thực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài Trường.
+b) Thời gian hoạt động giảng dạy và học tập của Trường được thực hiện theo thời gian biểu giảng dạy - học tập tại Trường. Tùy theo số lượng người học, số lớp học cần tổ chức và điều kiện cơ sở vật chất của Trường, phòng Đào tạo sắp xếp thời khóa biểu hàng ngày cho các lớp.
+
+Đào tạo vừa làm vừa học
+
+a) Các hoạt động giảng dạy được thực hiện tại Trường hoặc tại cơ sở liên kết theo quy định liên kết đào tạo tại Điều 16 của Quy chế này, riêng những hoạt động thực hành, thực tập, trải nghiệm thực tế và giảng dạy trực tuyến có thể thực hiện ngoài Trường, cơ sở liên kết.
+b) Thời gian tổ chức hoạt động giảng dạy linh hoạt trong ngày và trong tuần.
+
+Đối với các ngành đào tạo ưu tiên phục vụ nguồn nhân lực phát triển kinh tế – xã hội trong từng giai đoạn, theo quy định hiện hành và hướng dẫn của Bộ Giáo dục và Đào tạo.
+
+Điều 10. Các diện người học
+
+Người học hệ chính quy văn bằng thứ nhất
+
+Hàng năm, Trường tuyển sinh trình độ đại học hệ chính quy qua kỳ tuyển sinh theo quy định của Bộ Giáo dục và Đào tạo. Thí sinh trúng tuyển phải làm các thủ tục nhập học theo hướng dẫn và thời hạn ghi trong giấy gọi nhập học của Trường. Sau khi đã hoàn tất thủ tục nhập học, thí sinh trở thành người học chính thức hệ chính quy tập trung thuộc một khóa – ngành đào tạo của Trường.
+Một số trường hợp đặc biệt có thể được xem xét thu nhận vào hệ chính quy tập trung trên cơ sở các quy định của Bộ Giáo dục và Đào tạo và của Trường gồm:
+a) Người học đang du học ở nước ngoài có nguyện vọng và được giới thiệu về nước học tiếp, xem xét riêng từng trường hợp cụ thể;
+b) Người học hệ chính quy các trường khác ở trong nước có nguyện vọng chuyển trường nếu đảm bảo đủ các điều kiện quy định chuyển trường tại Điều 27;
+c) Các trường hợp khác do Hiệu trưởng và Hội đồng Tuyển sinh nhà Trường quyết định.
+
+Người học chính quy văn bằng thứ hai và liên thông đại học
+
+Hàng năm, Trường tổ chức tuyển sinh văn bằng thứ hai và liên thông đại học dành cho người học đã có văn bằng thứ nhất đại học cùng khối (văn bằng thứ hai) hoặc có bằng tốt nghiệp cao đẳng (liên thông đại học). Hội đồng tuyển sinh cần cử vào tình hình thực tế ban hành các thông báo tuyển sinh và hướng dẫn cần thiết cho mỗi đợt tuyển sinh.
+Người học văn bằng thứ hai sau khi nhập học được chọn hình thức theo học trong lớp văn bằng thứ nhất hoặc theo lớp riêng khi có đủ điều kiện sĩ số để mở lớp. Người học văn bằng thứ hai được miễn học các học phần đã học trước đây tại Trường (trong văn bằng thứ nhất) hoặc các học phần được xét thay thế tương đương bởi học phần đã học trong văn bằng thứ nhất tại một cơ sở đào tạo khác. Việc xét miễn học; xét các môn thay thế, tương đương sẽ do Hội đồng đào tạo văn bằng thứ hai của Trường quyết định. Người học văn bằng thứ hai được hướng dẫn dự quyền lợi, các dịch vụ chung của Trường, tuy nhiên không được hưởng học bổng khuyến khích học tập và áp dụng chế độ khen thưởng, hỗ trợ riêng.
+Người học liên thông đại học chính quy của Trường, sau khi nhập học được học chung và hưởng quyền lợi hoàn toàn như người học chính quy văn bằng thứ nhất.
+
+Người học liên thông khi có văn bằng khác
+
+a) Người đã tốt nghiệp các trình độ đào tạo của giáo dục nghề nghiệp được dự tuyển và học liên thông lên trình độ đại học theo quy định hiện hành của Chính phủ, Thủ tướng Chính phủ và quy chế của Trường.
+b) Người đã tốt nghiệp đại học được dự tuyển và học liên thông để nhận thêm một bằng tốt nghiệp đại học của một ngành đào tạo khác, khi Trường đã áp dụng thống nhất phương thức đào tạo theo tín chỉ (các ngành an ninh, quốc phòng thực hiện theo quy định riêng của Trường) và đã tuyển sinh được tối thiểu 03 khóa theo ngành đào tạo và hình thức đào tạo mà người học lựa chọn.
+c) Người học liên thông thực hiện chương trình đào tạo và đăng ký học tập theo kế hoạch chung như các sinh viên khác cùng hình thức đào tạo. Trên cơ sở công nhận và chuyển đổi tín chỉ, sinh viên được miễn trừ các học phần tương ứng với những khối lượng học tập đã tích lũy theo quy định tại Điều 35 của Quy chế này.
+
+Người học vừa làm vừa học
+
+Hàng năm, Trường tổ chức tuyển sinh vừa làm vừa học đáp ứng theo nhu cầu học tập rộng rãi của người học, các điều kiện thí sinh đã có bằng tốt nghiệp trung học phổ thông, trung cấp, cao đẳng và đại học.
+Hình thức đào tạo vừa làm vừa học có thể tổ chức liên tục tại Trường hay theo nhiều hình thức khác nhau tại các cơ sở liên kết đào tạo phù hợp. Người học vừa làm vừa học học cùng chương trình đào tạo của người học chính quy nhưng có thể có bộ mã số học phần riêng. Người học vừa làm vừa học được hưởng quyền lợi, áp dụng chế độ khen thưởng, hỗ trợ riêng.
+
+Người học dự thính
+
+a) Đối tượng học dự thính
+Học sinh tốt nghiệp trung học phổ thông hoặc tương đương.
+Người học tốt nghiệp trung cấp chuyên nghiệp, cao đẳng, đại học hoặc tương đương (riêng đối với liên thông trình độ từ cao đẳng lên đại học, người học phải tốt nghiệp cao đẳng, đại học hoặc tương đương).
+Người học bậc cao đẳng, đại học ở các trường đại học, cao đẳng khác.
+Cán bộ, công nhân viên được cơ quan cử đi học để bổ túc kiến thức phục vụ cho công việc hoặc cá nhân có nhu cầu học để nâng cao trình độ và kiến thức.
+b) Điều kiện học dự thính
+Có bằng tốt nghiệp trung học phổ thông hoặc tương đương;
+Đơn xin học dự thính (theo mẫu của Trường).
+Người học dự thính có thể học đầy đủ chương trình của một ngành học hoặc đăng ký các học phần tự chọn.
+c) Nghĩa vụ, trách nhiệm và quyền lợi của người học dự thính
+Người học dự thính phải chấp hành đầy đủ nội quy, quy định của Trường, phải thực hiện nghĩa vụ đóng học phí được quy định theo mức riêng.
+Người học dự thính được cấp mã số người học riêng để biết so với mã số người học chính quy để tiện theo dõi và quản lý.
+Người học dự thính được cấp bảng điểm cho các học phần đã hoàn tất, nếu hoàn thành chương trình đào tạo của ngành học được Trường cấp Giấy xác nhận kèm theo Bảng điểm toàn khóa.
+Người học dự thính được công nhận các học phần đã hoàn tất khi trở thành người học theo quy định.
+Người học dự thính không được công nhận là người học chính thức của Trường, vì vậy không được hưởng các chế độ và quyền lợi xã hội như người học chính quy;
+Người học dự thính không được chuyển sang hệ chính quy, không được tham gia thi tốt nghiệp, bảo vệ khóa luận hoặc làm đồ án tốt nghiệp và không được xét tốt nghiệp.
+Điều 11. Trách nhiệm của người học
+
+Tìm hiểu, nghiên cứu để nắm vững chương trình đào tạo của khóa – ngành đào tạo, kế hoạch học tập mỗi học kỳ và những quy định, chế độ liên quan của Trường. Khi cần thiết, người học liên lạc với cố vấn học tập, khoa/viện, các phòng ban chức năng hoặc giảng viên giảng dạy học phần để được hướng dẫn và giúp đỡ.
+Phải xây dựng kế hoạch học tập toàn khóa bằng cách liệt kê các học phần phải học cho từng học kỳ của khóa học. Kế hoạch học tập là cơ sở để người học đăng ký học phần trong mỗi học kỳ, kế hoạch học tập có thể thay đổi trong quá trình học nhưng phải được cấp có thẩm quyền phê duyệt.
+Thường xuyên theo dõi các thông báo, đọc kỹ các tài liệu hướng dẫn mỗi học kỳ để thực hiện các công việc học vụ theo đúng trình tự và đúng thời hạn; thực hiện việc đăng ký học mỗi học kỳ theo đúng quy định, quy trình.
+Đóng học phí và các khoản phí đúng thời hạn quy định.
+Thực hiện đầy đủ và nghiêm túc tất cả các yêu cầu của học phần đã đăng ký học, tham dự các kỳ kiểm tra thường xuyên, thi kết thúc học phần.
+Tham gia các hoạt động học tập, kiểm tra và thi đúng lớp học phần đã được xếp. Các trường hợp đặc biệt phải có sự đồng ý của Trường.
+Bảo mật các thông tin cá nhân, tài khoản cá nhân được Trường cung cấp. Người học có nhiệm vụ vào cổng thông tin sinh viên bằng tài khoản cá nhân để cập nhật và kê khai đầy đủ các thông tin cá nhân, kê khai thông tin về nội trú/ngoại trú, theo dõi kết quả học tập, thời khóa biểu, lịch thi, kết quả xét học vụ từng học kỳ, cập nhật các loại chứng chỉ đáp ứng điều kiện xét tốt nghiệp...
+Tham gia đầy đủ các hoạt động trải nghiệm rèn luyện kỹ năng, hoạt động xã hội... theo quy định của Trường.
+Phải tuân thủ theo đúng nội quy, quy định chung của nhà Trường.
+
+Điều 12. Thông tin đào tạo
+
+Để chuẩn bị một học kỳ mới, người học được thông báo các thông tin sau:
+
+a) Kế hoạch tổ chức giảng dạy học kỳ, danh sách các học phần và thời khóa biểu dự kiến các học phần được mở trong học kỳ.
+b) Các thay đổi (nếu có) trong xử lý học vụ, trong chương trình đào tạo các khóa học.
+c) Các thông tin hướng dẫn cần thiết khác để sắp xếp kế hoạch học tập.
+
+Thông tin cung cấp trong từng học kỳ
+
+Người học đăng nhập trang cổng thông tin sinh viên để xem kết quả đăng ký học phần học kỳ. Kết quả đăng ký học phần chỉ được thông tin chi tiết về thời khóa biểu học và mức học phí phải đóng của cá nhân người học trong học kỳ.
+Khi bắt đầu học một học phần, người học được giảng viên giới thiệu đề cương học phần, kế hoạch giảng dạy, được hướng dẫn về mục tiêu của học phần, phương pháp học tập, kiểm tra đánh giá, danh sách các giáo trình, tài liệu tham khảo, các học liệu liên quan phục vụ cho việc giảng dạy và học tập học phần.
+
+Các thông tin học vụ người học cần chú ý theo dõi
+
+a) Với một số học phần thí nghiệm, thực tập, đồ án, các môn giảng dạy ngoài trời... lịch giảng dạy chi tiết được công bố vào đầu học kỳ tại đơn vị tổ chức giảng dạy (bộ môn, phòng thí nghiệm hoặc tại văn phòng khoa quản lý học phần).
+b) Lịch kiểm tra, thi tập trung được công bố ít nhất 02 tuần trước khi thi tại trang cổng thông tin sinh viên.
+c) Việc cung cấp thông tin về các học kỳ học thêm cần cứ theo các thông báo mở lớp tương ứng.
+Điều 13. Khối lượng kiến thức tối thiểu
+a) Đối với chương trình đại học chính quy, vừa làm vừa học (cấp bằng cử nhân): 121 tín chỉ;
+b) Đối với chương trình đại học chính quy, vừa làm vừa học (cấp bằng kỹ sư): 151 tín chỉ;
