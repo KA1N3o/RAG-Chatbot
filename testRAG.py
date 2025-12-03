@@ -193,8 +193,10 @@ def keyword_search(question: str, subject_token: str | None, max_rows: int = 6):
 # ========= Metadata focus =========
 def load_metadata_index(max_rows: int = 5000):
     """Tải danh sách source + tokens để tìm kiếm động theo metadata"""
+    print("[INIT] Loading metadata index...")
     try:
         res = sb.table("documents").select("metadata").limit(max_rows).execute()
+        print(f"[INIT] Metadata loaded. Rows: {len(res.data or [])}")
     except Exception as e:
         print(f"[WARNING] Không thể load metadata index: {e}")
         return []
