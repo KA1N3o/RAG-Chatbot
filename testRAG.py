@@ -1,4 +1,4 @@
-# testRAG.py
+#import các thư viện cần thiết
 from supabase import create_client
 from langchain_ollama import OllamaEmbeddings, ChatOllama
 from langchain_community.vectorstores import SupabaseVectorStore
@@ -24,30 +24,38 @@ vs = SupabaseVectorStore(
     query_name="match_documents",
     embedding=emb,
 )
-retriever = vs.as_retriever(search_kwargs={"k": 4})
+#Lấy 2 file có chunk gần nhất
+retriever = vs.as_retriever(search_kwargs={"k": 2})
 
-llm = ChatOllama(model="qwen3:4b-instruct", temperature=0.2, num_gpu=1,base_url=base_url,reasoning=False)
-# LLM riêng để summarize (có thể dùng cùng model)
+llm = ChatOllama(model="qwen3:4b-instruct", temperature=0.3, num_gpu=1, base_url=base_url, reasoning=False, num_predict=256)  # Giới hạn output ngắn
+# LLM riêng để summarize
 summarize_llm = ChatOllama(model="qwen3:4b-instruct", temperature=0.1, num_gpu=1,base_url=base_url,reasoning=False)
-
+#Pre-prompt
 prompt = ChatPromptTemplate.from_messages([
-    ("system", "Bạn là trợ lý RAG hỗ trợ sinh viên và giảng viên tra cứu, hỏi đáp về các văn bản quy chế học vụ của Khoa Công nghệ thông tin.\n\n"
-               "CÁCH TRẢ LỜI:\n"
-               "1. Ưu tiên sử dụng LỊCH SỬ HỘI THOẠI (chat history) để trả lời các câu hỏi liên quan đến cuộc trò chuyện trước đó.\n"
-               "2. Sử dụng Context được cung cấp để trả lời các câu hỏi về học vụ, quy chế, thông tin trường.\n"
-               "3. Nếu văn bản chỉ là mẫu trống thì liệt kê các mục có trong mẫu đó.\n"
-               "4. CHỈ trả lời 'Mình chưa có trong kho' khi KHÔNG TÌM THẤY thông tin trong CẢ lịch sử hội thoại VÀ Context.\n\n"
-               "Trả lời bằng tiếng Việt, ngắn gọn, tự nhiên như đang trò chuyện."),
+    ("system", """Bạn là trợ lý tra cứu thông tin chính thức của trường Đại học Công Thương TP.HCM (HUIT). 
+TRẢ LỜI NGẮN GỌN - chỉ nội dung chính, không giải thích dài dòng, không lặp lại câu hỏi.
+
+Nếu không tìm thấy thông tin trong context được cung cấp, hãy trả lời theo mẫu sau:
+"Thông tin về [chủ đề câu hỏi] không có trong cơ sở dữ liệu chính thức của trường HUIT.
+
+Nếu bạn cần thêm thông tin chi tiết hoặc có câu hỏi khác, vui lòng cho tôi biết!"
+"""),
     MessagesPlaceholder(variable_name="chat_history", optional=True),
-    ("human", "Context:\n{context}\n\nCâu hỏi: {question}")
+    ("human", "Context:\n{context}\n\nHỏi: {question}")
 ])
 parser = StrOutputParser()
 
 # Prompt không có lịch sử (dùng cho trường hợp không có session)
 prompt_no_history = ChatPromptTemplate.from_messages([
-    ("system", "Bạn là trợ lý RAG hỗ trợ sinh viên và giảng viên tra cứu, hỏi đáp về các văn bản quy chế học vụ của Khoa Công nghệ thông tin. Trả lời tiếng Việt, đầy đủ nhưng ngắn gọn, chỉ tập trung vào câu hỏi không trả lời dư thừa. "
-               "Nếu không thấy thông tin thì nói: 'Mình chưa có trong kho'."),
-    ("human", "Câu hỏi: {question}\n\nContext:\n{context}")
+    ("system", """Bạn là trợ lý tra cứu thông tin chính thức của trường Đại học Công Thương TP.HCM (HUIT).
+TRẢ LỜI NGẮN GỌN - chỉ nội dung cần thiết, không lòng vòng.
+
+Nếu không tìm thấy thông tin trong context được cung cấp, hãy trả lời theo mẫu sau:
+"Thông tin về [chủ đề câu hỏi] không có trong cơ sở dữ liệu chính thức của trường HUIT.
+
+Nếu bạn cần thêm thông tin chi tiết hoặc có câu hỏi khác, vui lòng cho tôi biết!"
+"""),
+    ("human", "Hỏi: {question}\n\nContext:\n{context}")
 ])
 
 # ========= Helpers =========
@@ -254,8 +262,8 @@ def hybrid_context(question: str):
         print(f"  [V{i}] {d.metadata.get('source','?')} | {preview}...")
 
     # B) Keyword retrieval
-    kw_docs = keyword_search(question, subj, max_rows=2)
-    meta_docs = metadata_focus_docs(question, max_sources=4)
+    kw_docs = keyword_search(question, subj, max_rows=1) 
+    meta_docs = metadata_focus_docs(question, max_sources=2)  
     if meta_docs:
         print(f"[DBG] metadata_focus={len(meta_docs)}")
     print(f"[DBG] keyword={len(kw_docs)}")
