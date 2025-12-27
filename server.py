@@ -7,11 +7,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse, HTMLResponse
 from pydantic import BaseModel
 from testRAG import hybrid_context, create_rag_chain_with_memory, add_to_chat_history
-import uuid
-import threading
+                            import uuid
+                            import threading
 
-app = FastAPI()
-app.add_middleware(
+                            app = FastAPI()
+                            app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], allow_methods=["*"], allow_headers=["*"], allow_credentials=True
 )
